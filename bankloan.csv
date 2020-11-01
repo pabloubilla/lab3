@@ -1,0 +1,1201 @@
+CUSTOMER_ID|AGE|EDUCATION|NATIONALITY|YRS_WORK|YRS_ADDRESS|INCOME|DEBT_INCOME|CREDIT_DEBT|OTHER_DEBT
+10012|28.0|Media|Chilean|7|2.0|44.0|17.7|2.99|4.8
+10017|64.0|Postgrado|Chilean|34|17.0|116.0|14.7|5.05|12.0
+10030|40.0|Básica|Chilean|20|12.0|61.0|4.8|1.04|1.89
+10039|30.0|Básica|Chilean|11|3.0|27.0|34.5|1.75|7.56
+10069|25.0|Básica|Chilean|2|2.0|30.0|22.4|0.76|5.96
+10071||Básica|Chilean|2|9.0|38.0|10.9|1.46|2.68
+10096|26.0|Superior Incompleta|Chilean|2|4.0|38.0|11.9|0.95|3.57
+10128|25.0|Básica|Chilean|4|2.0|30.0|14.4|1.05|3.27
+10129|65.0|Superior Completa|Chilean|29|14.0|189.0|5.0|3.36|6.09
+10140|21.0|Superior Incompleta|Chilean|0|0.0|23.0|3.9|0.31|0.59
+10142|62.0|Básica|Chilean|33|13.0|96.0|17.5|6.69|10.11
+10169|30.0|Superior Completa|Chilean|4|3.0|39.0|10.6|2.39|1.74
+10197|38.0|Postgrado|Chilean|7|7.0|124.0|19.1|9.52|14.16
+10200|18.0|Media|Chilean|0|0.0|35.0|3.9|0.17|1.19
+10218|53.0|Básica|Chilean|9|13.0|41.0|13.3|2.33|3.12
+10234|18.0|Media|Chilean|0|0.0|15.0|7.4|0.83|0.28
+10351|18.0|Media|Chilean|0|0.0|56.0|15.7|1.84|6.95
+10423|19.0|Básica|Chilean|2||31.0|0.3|0.02|0.07
+10428|19.0|Media|Chilean|0|0.0|26.0|5.8|0.59|0.92
+10449|56.0|Media|Chilean|27|21.0|125.0|8.5|2.9|7.72
+10455|21.0|Media|Chilean|1|1.0|40.0|7.6|1.52|1.52
+10474|25.0|Básica|Chilean|8|3.0|37.0|8.3|0.95|2.12
+10525|47.0|Superior Incompleta|Chilean|8|10.0|43.0|6.1|0.36|2.26
+10564|40.0|Superior Completa|Chilean|17|11.0|103.0|13.3|10.41|3.29
+10567|41.0|Media|Chilean|16|11.0|56.0|3.4|0.9|1.01
+10746|23.0|Superior Completa|Chilean|0|2.0|118.0|6.4|0.29|7.26
+10775|45.0|Postgrado|Chilean|1|4.0|58.0|15.4|2.37|6.57
+10776|37.0|Superior Incompleta|Chilean|15|10.0|65.0|5.0|1.3|1.95
+10797|47.0|Media|Chilean|23|14.0|46.0|11.7|0.84|4.54
+10798|23.0|Superior Completa|Chilean|0|2.0|42.0|6.7|1.58|1.23
+10800|18.0|Media|Chilean|0|0.0|19.0|5.2|0.32|0.67
+10802|19.0|Media|Chilean|0|0.0|21.0|2.0|0.28|0.14
+10805|41.0|Básica|Chilean|3|12.0|23.0|10.6|0.15|2.29
+10824|42.0|Media|Chilean|3|12.0|76.0|5.2|0.72|3.23
+10839|29.0|Superior Completa|Chilean|2|3.0|45.0|3.0|0.67|0.68
+10870|24.0|Superior Completa|Chilean|0|2.0|41.0|8.4|0.79|2.66
+10884|45.0|Postgrado|Chilean|9|11.0|48.0|10.2|3.53|1.37
+10887|39.0|Superior Completa|Chilean|8|9.0|259.0|7.2|1.55|17.1
+10893|40.0|Media|Chilean|15|6.0|46.0|10.6|0.82|4.06
+10927|21.0|Superior Incompleta|Chilean|0|0.0|17.0|17.6|1.37|1.62
+10935|55.0|Superior Incompleta|Chilean|34|16.0|150.0|9.9|0.73|14.12
+11045|29.0|Media|Chilean|6|4.0|35.0|3.3|0.2|0.96
+11057|22.0|Superior Incompleta|Chilean|0|0.0|24.0|5.2|0.28|0.97
+11080|58.0|Superior Completa|Chilean|24|18.0|70.0|6.8|2.3|2.46
+11199|53.0|Media|Chilean|14|19.0|67.0|6.1|1.06|3.02
+11267|31.0|Superior Incompleta|Chilean|5|7.0|25.0|6.8|0.43|1.27
+11288|26.0|Básica|Chilean|4|2.0|23.0|6.9|0.17|1.42
+11307|23.0|Superior Completa|Chilean|0|0.0|28.0|19.2|1.72|3.66
+11329|25.0|Media|Chilean|1|3.0|19.0|28.6|2.34|3.1
+11337|52.0|Superior Incompleta|Chilean|23|10.0|153.0|4.5|2.12|4.76
+11344|25.0|Superior Incompleta|Chilean|0|1.0|35.0|9.7|0.13|3.26
+11363|22.0|Superior Completa|Chilean|0|1.0|31.0|22.8|1.31|5.75
+11423|38.0|Superior Incompleta|Chilean|8|8.0|35.0|26.4|3.78|5.46
+11461|42.0|Media|Chilean|16|11.0|49.0|9.7|0.56|4.2
+11466|52.0|Básica|Chilean|5|18.0|36.0|9.8|1.4|2.13
+11472|30.0|Básica|Chilean|2|3.0|18.0|3.0|0.07|0.47
+11475|59.0|Superior Completa|Chilean|20|16.0|144.0|3.4|2.49|2.4
+11512|34.0|Superior Incompleta|Chilean|5|5.0|44.0|5.6|0.74|1.72
+11557|33.0|Básica|Chilean|11|6.0|52.0|9.1|0.95|3.79
+11569|26.0|Superior Incompleta|Chilean|2|3.0|21.0|8.2|0.54|1.18
+11628|25.0|Superior Incompleta|Chilean|2|1.0|26.0|11.9|1.24|1.86
+11652|19.0|Media|Chilean|0|0.0|43.0|21.2|3.43|5.69
+11661|41.0|Postgrado|Chilean|7|12.0|47.0|5.2|1.64|0.81
+11690|36.0|Media|Chilean|2|9.0|27.0|9.3|0.74|1.78
+11703|20.0|Media|Chilean|0|0.0|21.0|10.2|0.55|1.59
+11712|35.0|Media|Chilean|6|5.0||2.5|0.45|0.2
+11755|33.0|Superior Completa|Chilean|3|4.0|34.0|1.2|0.23|0.18
+11783|38.0|Superior Completa|Chilean|0|12.0|37.0|2.0|0.1|0.64
+11809|40.0|Media|Chilean|6|6.0|36.0|6.6|1.58|0.8
+11852|39.0|Media|Chilean|7|6.0|82.0|17.4|3.71|10.56
+11859|18.0|Media|Chilean|0|0.0|12.0|8.2|0.15|0.83
+11860|66.0|Básica|Chilean|40|17.0|-149.0|13.1|7.79|11.73
+11897|43.0|Media|Chilean|6|6.0|40.0|6.6|0.5|2.14
+11916|39.0|Superior Completa|Chilean|14|8.0|46.0|6.5|0.5|2.49
+11941|27.0|Superior Incompleta|Chilean|5|4.0|27.0|10.5|0.99|1.84
+11964|47.0|Superior Incompleta|Chilean|17|13.0|111.0|8.8|5.73|4.03
+11973|25.0|Básica|Chilean|9|3.0|25.0|23.5|0.34|5.53
+11995|57.0|Superior Incompleta|Chilean|7|14.0|43.0|20.8|2.5|6.45
+12099|69.0|Básica|Chilean|6|24.0|60.0|18.6|1.27|9.89
+12104|20.0|Superior Incompleta|Chilean|0|0.0|22.0|4.2|0.54|0.39
+12110|42.0|Básica|Chilean|15|7.0|60.0|6.1|2.01|1.65
+12133|33.0|Media|Chilean|12|5.0|70.0|5.7|0.83|3.16
+12149|1970.0|Media|Chilean|10|7.0|29.0|4.2|0.47|0.74
+12157|35.0|Superior Incompleta|Chilean|0|7.0|36.0|4.7|0.55|1.15
+12239|46.0|Superior Incompleta|Chilean|20|16.0|122.0|6.7|2.89|5.28
+12382|24.0|Superior Completa|Chilean|0|1.0|27.0|4.2|0.44|0.69
+12439|34.0|Superior Incompleta|Chilean|7|8.0|43.0|30.3|3.92|9.11
+12540|36.0|Media|Chilean|7|4.0|41.0|18.9|3.18|4.57
+12596|19.0|Básica|Chilean|0|0.0|18.0|15.1|0.79|1.92
+12638|29.0|Postgrado|Chilean|1|4.0|51.0|1.3|0.28|0.38
+12687|44.0|Media|Chilean|7|9.0|59.0|8.4|1.77|3.19
+12710|19.0|Media|Chilean|0|0.0|28.0|11.7|0.82|2.45
+12729|39.0|Básica|Chilean|2|9.0|29.0|3.7|0.48|0.6
+12759|30.0|Superior Completa|Chilean|5|5.0|222.0|2.9|1.97|4.47
+12779|72.0|Media|Chilean|44|13.0|187.0|9.2|4.71|12.49
+12841|18.0|Media|Chilean|0|0.0|30.0|7.0|0.81|1.29
+12910|28.0|Superior Incompleta|Chilean|7|5.0|30.0|8.5|0.46|2.09
+12946|24.0|Básica|Chilean|5|2.0|27.0|10.0|1.29|1.41
+13005|33.0|Media|Chilean|8|4.0|45.0|12.1|0.11|5.34
+13013|34.0|Superior Completa|Chilean|11|4.0|132.0||1.51|4.69
+60060|46.0|Superior Completa|Chilean|7|16.0|41.0|2.5|0.35|0.67
+60063|36.0|Media|Chilean|16|4.0|96.0|12.2|5.42|6.29
+60070|45.0|Básica|Chilean|13|7.0|65.0|28.6|10.73|7.86
+60087|59.0|Básica|Chilean|34|26.0|154.0|8.5|8.33|4.76
+60090|35.0|Media|Chilean|9|1.0|80.0|12.9|4.28|6.04
+60112|62.0|Superior Completa|Chilean|31|22.0|387.0|15.0|5.4|52.65
+60199|29.0|Superior Completa|Chilean|1|4.0|38.0|4.5|0.82|0.89
+60220|56.0|Superior Incompleta|Chilean|30|14.0|167.0|1.4|0.46|1.88
+60229|24.0|Media|Chilean|4|1.0|39.0|21.5|3.97|4.42
+60237|32.0|Superior Incompleta|Chilean|1|6.0|45.0|13.9|1.51|4.74
+60256|25.0|Media|Chilean|6|2.0|29.0|5.9|0.64|1.07
+60309|37.0|Básica|Chilean|9|6.0|33.0|1.2|0.11|0.28
+60324|27.0|Superior Incompleta|Chilean|1|2.0|28.0|23.5|0.82|5.76
+60346|56.0|Media|Chilean|37|10.0|160.0|11.4|6.77|11.47
+60410|31.0|Media|Chilean|11|6.0|61.0|34.4|9.48|11.5
+60435|59.0|Básica|Chilean|31|15.0|86.0|6.8|1.61|4.23
+60494|65.0|Superior Incompleta|Chilean|26|16.0|186.0|4.2|2.98|4.83
+60497|26.0|Básica|Chilean|0|3.0|29.0|16.9|3.09|1.81
+60499|27.0|Superior Incompleta|Chilean|3|4.0|68.0|24.9|5.23|11.7
+60515|30.0|Básica|Chilean|6|3.0|22.0|15.5|0.13|3.28
+60625|43.0|Básica|Chilean|22|13.0|96.0|1.2|0.34|0.81
+60634|30.0|Superior Completa|Chilean|4|5.0|64.0|14.1|2.83|6.19
+60657|18.0|Media|Chilean|0|0.0|19.0|14.0|0.56|2.1
+60686|24.0|Superior Incompleta|Chilean|1|1.0|33.0|14.0|0.06|4.56
+60777|31.0|Superior Completa|Chilean|0|6.0|28.0|4.5|0.07|1.19
+60925|25.0|Básica|Chilean|4|3.0|31.0|3.1|0.37|0.59
+60937|24.0|Superior Completa|Chilean|0|2.0|48.0|1.2|0.06|0.51
+60942|26.0|Superior Incompleta|Chilean|2|3.0|37.0|3.1|0.35|0.8
+60944|33.0|Media|Chilean|13|5.0|54.0|16.2|2.88|5.87
+60947|44.0|Superior Completa|Chilean|18|9.0|136.0|4.2|1.42|4.3
+60949|18.0|Media|Chilean|0|0.0|16.0|6.0|0.4|0.56
+60980|29.0|Superior Incompleta|Chilean|1|2.0|34.0|15.5|0.39|4.88
+61081|21.0|Superior Incompleta|Chilean|0|1.0|27.0|16.5|1.16|3.3
+61231|41.0|Media|Chilean|22|13.0|54.0|4.1|0.82|1.39
+61255|40.0|Superior Completa|Chilean|11|8.0|238.0|7.9|6.34|12.47
+61272|37.0|Básica|Chilean|5|10.0|21.0|14.5|0.71|2.33
+61437|24.0|Básica|Chilean|6|3.0|36.0|13.2|1.92|2.83
+61475|24.0|Superior Completa|Chilean|0|4.0|18.0|2.9|0.18|0.34
+61481|18.0|Media|Chilean|0|0.0|25.0|2.9|0.56|0.16
+61510|30.0|Superior Completa|Chilean|5|6.0|95.0|7.0|3.46|3.19
+61513|36.0|Básica|Chilean|4|8.0|45.0|13.2|0.33|5.61
+61536|34.0||Chilean|14|9.0|39.0|11.4|2.71|1.73
+61605|63.0|Superior Incompleta|Chilean|8|25.0|92.0|5.6|0.89|4.27
+61632|56.0|Postgrado|Chilean|16|19.0|232.0|2.8|2.1|4.39
+61637|41.0|Media|Chilean|9|8.0|68.0|28.3|4.52|14.72
+61638|23.0|Superior Completa|Chilean|0|1.0|53.0|3.0|0.63|0.96
+61685|25.0|Postgrado|Chilean|0|3.0|32.0|14.6|1.45|3.22
+61722|22.0|Básica|Chilean|1|1.0|22.0|3.2|0.16|0.55
+61760|58.0|Media|Chilean|19|9.0|114.0|6.4|0.28|7.02
+61791|31.0|Superior Incompleta|Chilean|7|5.0|53.0|2.7|0.73|0.7
+61800|47.0|Media|Chilean|6|10.0|40.0|8.7|1.31|2.17
+61802|55.0|Media|Chilean|13|11.0|63.0|17.5|2.56|8.47
+61844|39.0|Media|Chilean|9|5.0||9.2|2.08|3.44
+61875|27.0|Postgrado|Chilean|0|4.0|30.0|4.3|0.42|0.87
+61881|30.0|Superior Incompleta|Chilean|7|4.0|60.0|21.6|5.57|7.39
+61920|35.0|Media|Chilean|6|5.0|32.0|7.6|0.82|1.61
+61946|30.0|Superior Completa|Chilean|4|7.0|30.0|9.2|0.89|1.87
+61952|19.0|Media|Chilean|0|0.0|23.0|8.8|1.11|0.92
+61972|38.0|Superior Completa|Chilean|14|4.0|98.0|16.5|1.34|14.83
+61980|20.0|Media|Chilean|1|0.0|19.0|8.0|0.78|0.74
+62038|43.0|Media|Chilean|14|8.0|61.0|10.8|2.17|4.41
+62060|25.0|Media|Chilean|2|3.0|25.0|9.9|1.4|1.08
+62074|41.0|Básica|Chilean|11|5.0|36.0|10.2|1.37|2.31
+62109|37.0|Superior Incompleta|Chilean|3|4.0|36.0|6.7|0.68|1.73
+62155|22.0|Básica|Chilean|0|2.0|17.0|3.7|0.14|0.49
+62168|23.0|Media|Chilean|0|3.0|27.0|17.6|2.13|2.62
+62184|45.0|Superior Completa|Chilean|1|8.0|60.0|9.9|1.14|4.8
+62219|19.0|Básica|Chilean|1|0.0|20.0|8.8|0.55|1.21
+62223|26.0|Media|Chilean|6|3.0|23.0|13.6|0.13|3.0
+62229|25.0|Superior Completa|Chilean|0|2.0|21.0|22.3|1.68|3.01
+62238|49.0|Superior Completa|Chilean|1|8.0|51.0|11.2|1.86|3.85
+62301|76.0|Básica|Chilean|15|20.0|26.0|5.6|0.14|1.32
+62380|28.0|Superior Incompleta|Chilean|1|3.0|16.0|5.2|0.5|0.33
+62399|37.0|Básica|Chilean|18|8.0|36.0|4.8|0.44|1.29
+62406|41.0|Básica|Chilean|9|8.0|29.0|5.6|0.25|1.38
+62428|30.0|Media|Chilean|8|4.0|68.0|2.4|0.27|1.36
+62534|39.0|Superior Incompleta|Chilean|4|9.0|78.0|14.0|7.21|3.71
+62545|25.0|Superior Incompleta|Chilean|2|2.0|19.0|3.4|0.19|0.46
+62573|26.0|Postgrado|Chilean|0|4.0|19.0|7.7|0.67|0.79
+62602|24.0|Básica|Chilean|8|2.0|28.0|6.6|0.26|1.59
+62610|61.0|Básica|Chilean|0|10.0|42.0|18.4|4.01|3.72
+62637|26.0|Media|Chilean|6|2.0|38.0|10.6|2.57|1.46
+62645|18.0|Media|Chilean|0|0.0|44.0|9.2|1.25|2.8
+62691|41.0|Media|Chilean|21|8.0|189.0|6.3|6.22|5.69
+62693|49.0|Superior Incompleta|Chilean|9|16.0|64.0|6.1|0.33|3.57
+62744|18.0|Básica|Chilean|0|0.0|20.0|3.9|0.37|0.41
+62750|18.0|Media|Chilean|0|0.0|24.0|6.5|0.3|1.26
+62792|52.0|Superior Completa|Chilean|2|12.0|96.0|7.1|2.28|4.54
+62812|32.0|Media|Chilean|2|6.0|30.0|9.4|1.18|1.64
+62835|27.0|Media|Chilean|6|5.0|42.0|9.1|2.19|1.64
+62837|23.0|Superior Incompleta|Chilean|0|2.0|57.0|17.8|2.73|7.42
+62863|29.0|Superior Completa|Chilean|3|3.0|46.0|8.1|0.29|3.44
+62867|73.0|Media|Chilean|53|25.0|410.0|4.1|3.11|13.7
+62923|31.0|Superior Completa|Chilean|3|5.0|22.0|4.6|0.23|0.79
+62975|19.0|Media|Chilean|0|0.0|28.0|9.1|0.87|1.68
+63023|57.0|Media|Chilean|4|9.0|39.0|4.3|0.56|1.12
+63041|18.0|Media|Chilean|0|0.0|19.0|1.5|0.06|0.22
+63054|22.0|Básica|Chilean|1|1.0|19.0|8.9|0.49|1.2
+63055|21.0|Media|Chilean|0|1.0|30.0|4.3|0.18|1.11
+63071|33.0|Superior Incompleta|Chilean|4|4.0|60.0|9.5|1.61|4.09
+70016|21.0|Superior Incompleta|Chilean|0|1.0|41.0|23.4|1.97|7.63
+70065|42.0|Superior Incompleta|Chilean|18|15.0|63.0|11.3|2.54|4.58
+70093|32.0|Superior Incompleta|Chilean|10|5.0|38.0|11.5|1.05|3.32
+70178|33.0|Superior Completa|Chilean|5|4.0|105.0|13.4|7.05|7.02
+70186|73.0|Básica|Chilean|50|34.0|289.0|8.4|7.84|16.43
+70221|61.0|Superior Completa|Chilean|23|20.0|81.0|8.9|1.7|5.51
+70248|38.0|Postgrado|Chilean|2|8.0|229.0|6.7|3.94|11.4
+70269|46.0|Superior Incompleta|Chilean|13|11.0|45.0|22.2|3.33|6.66
+70325|20.0|Superior Incompleta|Chilean|0|0.0|20.0|7.2|0.34|1.1
+70403|19.0|Media|Chilean|0|0.0|24.0|15.6|0.75|3.0
+70412|28.0|Superior Completa|Chilean|0|4.0|47.0|18.6|6.71|2.04
+70430|24.0|Superior Completa|Chilean|0|2.0|21.0|6.6|0.58|0.81
+70522|53.0|Básica|Chilean|1|12.0|30.0|8.8|0.41|2.23
+70525|35.0|Media|Chilean|14|7.0|62.0|8.2|0.6|4.48
+70548|43.0|Media|Chilean|7|11.0|53.0|3.7|0.85|1.11
+70553|32.0|Básica|Chilean|9|6.0|33.0|8.1|1.15|1.52
+70558|27.0|Básica|Chilean|9|1.0|28.0|5.7|0.11|1.49
+70567|18.0|Media|Chilean|0|0.0|22.0|1.5|0.13|0.2
+70673|19.0|Media|Chilean|0|0.0|31.0|28.7|5.36|3.53
+70687|18.0|Media|Chilean|0|0.0|36.0|6.2|1.05|1.18
+70710|54.0|Media|Chilean|20|15.0|82.0|20.0|4.35|12.05
+70770|43.0|Superior Incompleta|Chilean|0|4.0|31.0|2.4|0.28|0.46
+70849|50.0|Media|Chilean|15|14.0|65.0|12.6|3.05|5.14
+70886|26.0|Básica|Chilean|10|3.0|31.0|8.8|0.78|1.95
+70888|35.0|Media|Chilean|4|2.0|57.0|6.0|1.29|2.13
+70907|47.0|Media|Chilean|6|12.0|34.0|4.4|0.53|0.97
+70938|31.0|Postgrado|Chilean|2|5.0|19.0|15.9|0.94|2.08
+71122|40.0|Superior Incompleta|Chilean|7|11.0|53.0|12.4|1.48|5.09
+71175|56.0|Superior Completa|Chilean|14|25.0|206.0|27.9|15.29|42.19
+71264|34.0|Superior Completa|Chilean|3|8.0|72.0|7.6|0.38|5.09
+71270|18.0|Media|Chilean|0|0.0|18.0|12.7|0.65|1.64
+71417|46.0|Media|Chilean|24|10.0|78.0|6.9|2.74|2.64
+71424|31.0|Media|Chilean|2|6.0|45.0|3.1|0.43|0.96
+71431|25.0|Media|Chilean|1|1.0|16.0|2.1|0.15|0.19
+71439|79.0|Básica|Chilean|63|18.0|497.0|8.2|15.08|25.68
+71522|43.0|Superior Incompleta|Chilean|21|14.0|125.0|11.5|6.33|8.05
+71585|26.0|Básica|Chilean|9|3.0|41.0|22.1|0.62|8.44
+71630|26.0|Superior Incompleta|Chilean|1|4.0|36.0|12.5|1.59|2.91
+71699|18.0|Básica|Chilean|0|0.0|28.0|17.0|1.75|3.01
+71730|30.0|Media|Chilean|0|4.0|25.0|7.4|0.26|1.59
+71732|47.0|Superior Incompleta|Chilean|3|8.0|69.0|5.2|0.9|2.69
+71758|18.0|Media|Chilean|0|0.0|35.0|12.4|1.13|3.21
+71761|30.0|Básica|Chilean|13|3.0|38.0|4.6|0.34|1.41
+71782|21.0|Superior Incompleta|Chilean|0|1.0|25.0|6.7|1.29|0.38
+71784|33.0|Superior Completa|Chilean|4|9.0|119.0|15.3|6.57|11.63
+71812|36.0|Media|Chilean|3|6.0|28.0|4.9|0.26|1.12
+71817|26.0|Media|Chilean|7|3.0|49.0|17.7|5.38|3.3
+71896|20.0|Superior Incompleta|Chilean|0|0.0|21.0|1.3|0.18|0.09
+72021|56.0|Media|Chilean|19|8.0|76.0|1.2|0.18|0.73
+72023|42.0|Superior Completa|Chilean|7|12.0|130.0|11.6|3.33|11.75
+72147|23.0|Superior Completa|Chilean|0|3.0|47.0|8.9|0.62|3.56
+72213|32.0|Superior Incompleta|Chilean|3|8.0|86.0|7.9|2.2|4.59
+72221|20.0|Superior Incompleta|Chilean|0|0.0|30.0|10.6|2.53|0.65
+72302|19.0|Media|Chilean|0|0.0|21.0|12.0|0.35|2.17
+72307|26.0|Media|Chilean|1|0.0|26.0|11.1|1.69|1.19
+72327|19.0|Media|Chilean|0|0.0|20.0|0.1|0.01|0.01
+72385|59.0|Superior Incompleta|Chilean|31|21.0|102.0|0.3|0.1|0.2
+72447|21.0|Superior Incompleta|Chilean|0|1.0|13.0|8.3|0.45|0.63
+72506|39.0|Superior Completa|Chilean|14|6.0|152.0|27.4|13.41|28.24
+72584|18.0|Media|Chilean|0|0.0|12.0|3.3|0.11|0.29
+72633|20.0|Media|Chilean|0|0.0|38.0|7.5|0.36|2.49
+72635|33.0|Superior Completa|Chilean|1|6.0|23.0|4.2|0.19|0.77
+72704|19.0|Básica|Chilean|1|0.0|16.0|3.4|0.31|0.24
+72756|29.0|Superior Incompleta|Chilean|5|5.0|52.0|16.8|5.63|3.1
+72803|70.0|Superior Incompleta|Chilean|48|25.0|165.0|14.8|0.56|23.86
+72806|44.0|Básica|Chilean|22|8.0|93.0|9.0|4.38|3.99
+72846|40.0|Media|Chilean|20|10.0|117.0|11.9|4.94|8.98
+72860|21.0|Media|Chilean|1|1.0|23.0|7.4|0.26|1.44
+72954|43.0|Media|Chilean|8|11.0|48.0|9.7|1.32|3.34
+73016|27.0|Media|Chilean|3|4.0|28.0|4.2|0.54|0.64
+73083|21.0|Superior Incompleta|Chilean|0|1.0|21.0|10.4|1.54|0.65
+73188|29.0|Media|Chilean|3|5.0|45.0|14.1|1.68|4.66
+73525|41.0|Media|Chilean|2|10.0|40.0|7.9|0.31|2.85
+73537|28.0|Superior Completa|Chilean|5|3.0|30.0|7.0|0.46|1.64
+73591|48.0|Media|Chilean|5|10.0|43.0|6.9|2.26|0.7
+73650|25.0|Postgrado|Chilean|0|3.0|66.0|2.8|0.9|0.94
+73703|41.0|Media|Chilean|3|7.0|62.0|7.0|2.89|1.45
+73741|22.0|Media|Chilean|1|2.0|24.0|16.1|0.8|3.07
+73764|47.0|Superior Incompleta|Chilean|8|11.0|43.0|11.8|2.27|2.8
+73864|18.0|Media|Chilean|0|0.0|24.0|5.3|0.59|0.68
+73907|28.0|Postgrado|Chilean|0|4.0|50.0|8.6|0.28|4.02
+73999|41.0|Media|Chilean|5|8.0|37.0|5.8|0.35|1.8
+74006|31.0|Media|Chilean|2|7.0|42.0|10.3|0.86|3.47
+74096|19.0|Media|Chilean|0|0.0|21.0|14.3|1.22|1.78
+74136|31.0|Superior Incompleta|Chilean|1|7.0|28.0|2.0|0.17|0.39
+74169|18.0|Media|Chilean|0|0.0|21.0|21.8|1.44|3.14
+74209|39.0|Media|Chilean|5|5.0|39.0|4.2|0.72|0.92
+74221|20.0|Media|Chilean|0|0.0|17.0|7.3|0.57|0.67
+74272|31.0|Superior Completa|Chilean|8|4.0|29.0|6.8|1.12|0.85
+74287|23.0|Básica|Chilean|3|1.0|41.0|5.5|0.67|1.58
+74372|25.0|Superior Incompleta|Chilean|3|3.0|58.0|20.6|3.5|8.45
+74378|29.0|Superior Completa|Chilean|3|1.0|47.0|2.9|0.53|0.83
+74394|38.0|Superior Incompleta|Chilean|15|4.0|136.0|20.2|6.76|20.71
+74471|39.0|Básica|Chilean|8|9.0|41.0|0.1|0.03|0.01
+74498|28.0|Superior Completa|Chilean|4|4.0|20.0|15.5|0.3|2.8
+74528|40.0|Superior Incompleta|Chilean|10|12.0|38.0|6.1|0.92|1.4
+74547|46.0|Superior Incompleta|Chilean|2|13.0|56.0|2.3|0.41|0.87
+74589|61.0|Básica|Chilean|45|22.0|209.0|10.9|4.12|18.66
+74658|49.0|Superior Completa|Chilean|18|13.0|182.0|4.8|0.94|7.79
+74677|71.0|Media|Chilean|35|19.0|131.0|11.6|6.03|9.16
+95009|20.0|Básica|Chilean|2|0.0|20.0|2.7|0.2|0.34
+95034|20.0|Superior Incompleta|Chilean|0|0.0|20.0|11.3|1.96|0.3
+95050|18.0|Media|Chilean|0|0.0|29.0|5.6|0.9|0.73
+95066|32.0|Postgrado|Chilean|3|6.0|59.0|9.0|1.85|3.46
+95138|42.0|Superior Incompleta|Chilean|2|13.0|22.0|13.6|1.46|1.53
+95177|43.0|Superior Incompleta|Chilean|9|9.0|57.0|4.5|1.81|0.76
+95185|27.0|Básica|Chilean|7|5.0|43.0|10.0|1.2|3.1
+95204|23.0|Media|Chilean|3|2.0|66.0|2.7|0.79|0.99
+95209|21.0|Media|Chilean|1|0.0|33.0|13.1|1.31|3.01
+95220|49.0|Superior Incompleta|Chilean|24|11.0|90.0|13.9|8.06|4.45
+95299|49.0|Media|Chilean|28|11.0|93.0|12.8|1.56|10.34
+95372|19.0|Media|Chilean|0|0.0|28.0|9.7|1.35|1.37
+95384|24.0|Superior Completa|Chilean|0|2.0|21.0|11.0|0.72|1.59
+95388|23.0|Superior Completa|Chilean|0|1.0|30.0|12.8|2.3|1.54
+95450|43.0|Superior Incompleta|Chilean|13|9.0|82.0|9.9|1.78|6.34
+95481|28.0|Media|Chilean|8|3.0|22.0|5.4|0.17|1.02
+95530|26.0|Superior Completa|Chilean|2|3.0|36.0|14.4|1.89|3.29
+95541|40.0|Superior Completa|Chilean|7|11.0|33.0|12.4|0.65|3.45
+95582|47.0|Básica|Chilean|22|17.0|108.0|8.9|1.37|8.24
+95633|19.0|Media|Chilean|0|0.0|22.0|16.8|1.64|2.06
+95641|71.0|Básica|Chilean|18|27.0|57.0|11.5|2.58|3.97
+95723|72.0|Superior Completa|Chilean|26|24.0|146.0|12.6|2.12|16.28
+95739|45.0|Media|Chilean|1|10.0|43.0|2.8|0.38|0.82
+95833|20.0|Superior Incompleta|Chilean|0|0.0|29.0|17.0|1.93|3.0
+95858|42.0|Media|Chilean|7|8.0|47.0|7.8|1.02|2.65
+95859|33.0|Superior Completa|Chilean|1|3.0|40.0|13.3|0.87|4.45
+95998|42.0|Media|Chilean|19|8.0|63.0|20.4|5.31|7.54
+96001|20.0|Superior Incompleta|Chilean|0|0.0|28.0|10.4|0.93|1.98
+96007|20.0|Superior Incompleta|Chilean|0|1.0|19.0|4.5|0.35|0.51
+96037|20.0|Superior Incompleta|Chilean|0|0.0|20.0|13.5|0.59|2.11
+96088|34.0|Superior Incompleta|Chilean|11|5.0|68.0|11.9|3.37|4.73
+96098|39.0|Básica|Chilean|12|11.0|47.0|9.5|1.03|3.43
+96116|42.0|Básica|Chilean|2|10.0|38.0|3.6|0.39|0.98
+96167|61.0|Básica|Chilean|7|22.0|35.0|10.4|0.7|2.94
+96197|30.0|Superior Completa|Chilean|2|6.0|61.0|2.9|0.64|1.13
+96228|39.0|Superior Completa|Chilean|12|9.0|82.0|6.2|1.79|3.29
+96253|26.0|Superior Incompleta|Chilean|5|2.0|25.0|10.8|1.13|1.57
+96263|62.0|Superior Incompleta|Chilean|12|10.0|108.0|7.3|1.38|6.5
+96479|48.0|Media|Chilean|17|8.0|81.0|30.0|11.64|12.66
+96521|39.0|Superior Incompleta|Chilean|17|9.0|165.0|3.3|2.55|2.89
+96536|51.0|Básica|Chilean|33|13.0|234.0|9.6|4.25|18.22
+96611|31.0|Superior Incompleta|Chilean|4|6.0|43.0|6.9|0.66|2.31
+96627|45.0|Superior Incompleta|Chilean|19|7.0|286.0|5.0|4.53|9.77
+96714|44.0|Superior Completa|Chilean|0|9.0|167.0|10.6|7.79|9.91
+96732|28.0|Media|Chilean|9|3.0|36.0|3.2|0.09|1.06
+96945|36.0|Superior Incompleta|Chilean|8|4.0|41.0|11.1|1.57|2.98
+96961|38.0|Postgrado|Chilean|4|5.0|66.0|10.7|2.4|4.66
+97000|61.0|Media|Chilean|22|6.0|108.0|22.2|6.04|17.93
+97003|66.0|Superior Incompleta|Chilean|6|20.0|61.0|7.7|1.2|3.49
+97045|24.0|Media|Chilean|5|3.0|31.0|10.4|0.7|2.52
+97048|45.0|Básica|Chilean|12|10.0|44.0|9.8|1.6|2.72
+97147|47.0|Postgrado|Chilean|8|13.0|33.0|15.4|1.71|3.37
+97173|19.0|Media|Chilean|0|0.0|25.0|3.9|0.68|0.29
+97191|28.0|Media|Chilean|2|5.0|26.0|23.6|0.74|5.4
+97247|40.0|Superior Completa|Chilean|3|10.0|35.0|10.0|1.09|2.42
+97289|25.0|Superior Completa|Chilean|1|1.0|27.0|14.2|0.46|3.38
+97350|64.0|Básica|Chilean|26|26.0|56.0|20.3|2.01|9.36
+97355|40.0|Superior Incompleta|Chilean|15|4.0|78.0|15.5|3.52|8.57
+97357|37.0|Postgrado|Chilean|1|10.0|90.0|1.8|0.25|1.37
+97402|56.0|Media|Chilean|35|14.0|236.0|3.9|6.68|2.52
+97548|33.0|Superior Incompleta|Chilean|8|4.0|102.0|28.8|7.93|21.44
+97595|66.0|Superior Incompleta|Chilean|30|22.0|104.0|6.7|2.29|4.68
+97629|18.0|Media|Chilean|0|0.0|28.0|9.9|1.05|1.72
+97815|52.0|Superior Incompleta|Chilean|28|23.0|108.0|3.9|2.21|2.0
+97845|46.0|Básica|Chilean|2|10.0|38.0|8.2|0.5|2.62
+97911|51.0|Media|Chilean|3|14.0|19.0|4.9|0.34|0.59
+97992|34.0|Media|Chilean|6|4.0|45.0|9.1|1.31|2.78
+98023|19.0|Media|Chilean|0|0.0|18.0|6.3|0.26|0.87
+98041|52.0|Básica|Chilean|33|12.0|80.0|9.0|1.06|6.14
+98114|24.0|Básica|Chilean|2|2.0|29.0|23.6|0.47|6.38
+98144|35.0|Superior Completa|Chilean|5|4.0|47.0|16.1|3.18|4.39
+98195|29.0|Superior Completa|Chilean|1|4.0|50.0|15.1|2.67|4.88
+98277|47.0|Media|Chilean|10|10.0|48.0|7.0|1.98|1.38
+98410|26.0|Superior Incompleta|Chilean|4|4.0|50.0|0.8|0.13|0.27
+98611|27.0|Superior Completa|Chilean|2|3.0|34.0|11.4|2.16|1.72
+98648|19.0|Media|Chilean|0|0.0|36.0|6.7|0.89|1.52
+98678|51.0|Media|Chilean|28|20.0|134.0|4.1|1.75|3.74
+98849|46.0|Básica|Chilean|13|12.0|94.0|15.7|8.31|6.45
+98854|23.0|Superior Incompleta|Chilean|1|1.0|30.0|13.6|2.04|2.04
+98855|19.0|Media|Chilean|0|0.0|20.0|5.6|0.16|0.96
+98961|23.0|Media|Chilean|3|1.0|27.0|17.8|0.93|3.88
+98972|30.0|Superior Completa|Chilean|1|6.0|16.0|8.5|1.08|0.28
+98987|21.0|Superior Incompleta|Chilean|0|0.0|35.0|6.8|0.91|1.47
+99058|20.0|Superior Incompleta|Chilean|0|0.0|35.0|5.8|0.76|1.27
+99139|23.0|Superior Completa|Chilean|0|2.0|36.0|1.1|0.1|0.29
+99161|46.0|Superior Incompleta|Chilean|2|14.0|27.0|12.1|0.55|2.72
+99306|43.0|Media|Chilean|20|8.0|180.0|7.3|4.2|8.94
+99337|27.0|Media|Chilean|5|3.0|28.0|5.2|0.5|0.96
+99363|45.0|Básica|Chilean|3|13.0|38.0|22.1|2.59|5.8
+99378|22.0|Superior Incompleta|Chilean|1|2.0|27.0|9.8|0.25|2.4
+99388|41.0|Media|Chilean|13|7.0|50.0|14.2|3.72|3.38
+99395|52.0|Básica|Chilean|8|6.0|43.0|17.5|3.44|4.09
+99428|53.0|Media|Chilean|34|18.0|251.0|15.9|12.37|27.54
+99436|20.0|Superior Incompleta|Chilean|0|0.0|45.0|7.7|1.14|2.32
+99449|30.0|Postgrado|Chilean|2|8.0|99.0|1.5|0.8|0.69
+99476|68.0|Media|Chilean|0|17.0|22.0|12.5|1.05|1.7
+99524|31.0|Superior Completa|Chilean|0|7.0|41.0|3.8|1.11|0.44
+99592|54.0|Media|Chilean|2|21.0|32.0|6.7|0.17|1.97
+99593|26.0|Superior Incompleta|Chilean|2|3.0|38.0|7.6|1.39|1.49
+99634|32.0|Media|Chilean|12|6.0|61.0|8.2|0.3|4.71
+120070|27.0|Media|Chilean|4|2.0|34.0|15.1|0.84|4.3
+120073|60.0|Superior Incompleta|Chilean|22|10.0|60.0|22.3|3.25|10.13
+120117|47.0|Media|Chilean|13|19.0|58.0|3.5|0.62|1.41
+120155|47.0|Media|Chilean|6|11.0|75.0|15.2|2.93|8.47
+120174|69.0|Superior Completa|Chilean|7|20.0|75.0|13.5|1.03|9.09
+120175|45.0|Media|Chilean|7|8.0|32.0|5.4|0.13|1.6
+120194|29.0|Superior Incompleta|Chilean|2|5.0|31.0|6.8|1.41|0.7
+120199|29.0|Superior Incompleta|Chilean|4|5.0|67.0|7.9|0.93|4.36
+120278|27.0|Básica|Chilean|5|2.0|33.0|5.1|0.58|1.1
+120285|44.0|Básica|Chilean|9|3.0|37.0|18.4|2.92|3.89
+120304|21.0|Superior Incompleta|Chilean|0|1.0|55.0|17.1|6.9|2.5
+120306|26.0|Superior Incompleta|Chilean|4|4.0|28.0|15.0|2.38|1.82
+120397|56.0|Superior Incompleta|Chilean|26|13.0|384.0|11.2|23.31|19.7
+120428|38.0|Superior Completa|Chilean|4|8.0|91.0|3.9|1.02|2.53
+120482|42.0|Superior Completa|Chilean|17|8.0|54.0|10.3|0.29|5.27
+120611|43.0|Superior Incompleta|Chilean|13|11.0|59.0|11.0|1.72|4.77
+120614|37.0|Media|Chilean|17|6.0|123.0|10.6|3.89|9.15
+120633|64.0|Superior Incompleta|Chilean|15|22.0|227.0|29.9|35.97|31.9
+120651|39.0|Media|Chilean|0|10.0|38.0|7.5|0.2|2.65
+120658|21.0|Media|Chilean|1|0.0|20.0|20.3|0.41|3.65
+120708|30.0|Superior Completa|Chilean|5|3.0|62.0|2.6|0.7|0.91
+120724|52.0|Media|Chilean|9|12.0|72.0|15.4|4.08|7.01
+120769|40.0|Superior Completa|Chilean|5|9.0|62.0|8.0|1.49|3.47
+120806|23.0|Media|Chilean|3|2.0|25.0|2.5|0.17|0.45
+120822|40.0|Media|Chilean|2|7.0|32.0|3.4|0.18|0.91
+120942|19.0|Media|Chilean|0|0.0|37.0|3.0|0.21|0.9
+120999|22.0|Superior Completa|Chilean|0|0.0|36.0|3.3|0.28|0.91
+121027|50.0|Básica|Chilean|20|11.0|67.0|18.4|7.24|5.09
+121055|36.0|Postgrado|Chilean|7|12.0|67.0|8.2|3.1|2.4
+121097|47.0|Superior Incompleta|Chilean|14|16.0|36.0|0.9|0.08|0.24
+121113|19.0|Media|Chilean|0|0.0|50.0|1.8|0.49|0.41
+121151|32.0|Superior Incompleta|Chilean|10|7.0|70.0|3.2|0.85|1.39
+121201|20.0|Superior Incompleta|Chilean|0|0.0|32.0|8.5|1.11|1.61
+121202|20.0|Media|Chilean|0|0.0|26.0|4.0|0.39|0.65
+121206|22.0|Superior Completa|Chilean|0|2.0|31.0|7.6|0.2|2.16
+121261|23.0|Superior Completa|Chilean|0|2.0|45.0|10.7|0.61|4.2
+121266|62.0|Media|Chilean|4|5.0|38.0|11.3|0.94|3.35
+121285|29.0|Media|Chilean|9|3.0|69.0|6.7|1.07|3.55
+121287|34.0|Básica|Chilean|6|6.0|33.0|6.4|0.53|1.59
+121349|18.0|Media|Chilean|0|0.0|25.0|6.2|0.62|0.93
+121353|23.0|Superior Incompleta|Chilean|2|2.0|47.0|14.6|2.94|3.93
+121366|35.0|Básica|Chilean|5|8.0|62.0|8.5|1.99|3.28
+121378|30.0|Superior Incompleta|Chilean|5|3.0|27.0|6.2|0.86|0.81
+121380|36.0|Superior Incompleta|Chilean|7|10.0|118.0|11.2|8.48|4.73
+121382|18.0|Media|Chilean|0|0.0|28.0|2.4|0.22|0.45
+121498|26.0|Media|Chilean|2|4.0|30.0|40.7|5.49|6.72
+121541|18.0|Media|Chilean|0|0.0|33.0|8.2|0.84|1.87
+121565|31.0|Media|Chilean|11|8.0|47.0|26.9|3.51|9.13
+121595|33.0|Superior Incompleta|Chilean|3|2.0|46.0|3.8|0.41|1.34
+121735|20.0|Básica|Chilean|2|0.0|20.0|18.8|1.19|2.57
+121758|22.0|Superior Completa|Chilean|0|1.0|36.0|10.7|1.67|2.18
+121775|22.0|Media|Chilean|3|1.0|45.0|11.1|1.85|3.15
+121777|22.0|Básica|Chilean|4|1.0|24.0|4.4|0.53|0.52
+121795|26.0|Superior Completa|Chilean|0|2.0|103.0|14.3|8.54|6.19
+121826|34.0|Básica|Chilean|10|7.0|96.0|5.4|1.65|3.53
+121865|30.0|Básica|Chilean|13|2.0|42.0|15.3|0.94|5.48
+121921|40.0|Superior Incompleta|Chilean|15|5.0|53.0|23.5|1.91|10.55
+121925|21.0|Media|Chilean|1|0.0|43.0|14.1|3.38|2.69
+121968|20.0|Media|Chilean|0|0.0|28.0|18.0|3.07|1.97
+121979|18.0|Media|Chilean|0|0.0|20.0|14.5|0.33|2.57
+122000|53.0|Media|Chilean|24|8.0|129.0|2.7|1.01|2.48
+122036|70.0|Media|Chilean|27|21.0|92.0|9.3|3.01|5.54
+122060|26.0|Postgrado|Chilean|0|3.0|49.0|4.4|0.95|1.21
+122066|43.0|Media|Chilean|16|7.0|119.0|18.1|8.16|13.38
+122084|38.0|Superior Incompleta|Chilean|3|3.0|34.0|3.9|0.86|0.46
+122157|31.0|Media|Chilean|3|6.0|45.0|0.7|0.13|0.19
+122192|24.0|Superior Completa|Chilean|0|1.0|35.0|1.2|0.04|0.38
+122205|44.0|Superior Completa|Chilean|21|14.0|314.0|4.7|3.5|11.26
+122365|62.0|Postgrado|Chilean|31|14.0|699.0|5.9|6.6|34.64
+122372|52.0|Superior Incompleta|Chilean|24|10.0|403.0|5.1|8.32|12.23
+122460|33.0|Superior Completa|Chilean|3|2.0|40.0|1.2|0.26|0.22
+122484|26.0|Superior Completa|Chilean|1|3.0|39.0|2.0|0.33|0.45
+122575|34.0|Media|Chilean|4|8.0|46.0|5.5|0.7|1.83
+122602|54.0|Superior Completa|Chilean|0|14.0|66.0|9.6|1.98|4.35
+122609|61.0|Básica|Chilean|0|24.0|25.0|33.0|3.42|4.83
+122620|44.0|Postgrado|Chilean|2|13.0|91.0|4.8|1.02|3.35
+122653|22.0|Media|Chilean|0|2.0|16.0|9.8|0.31|1.26
+122655|19.0|Básica|Chilean|3|0.0|21.0|7.1|0.48|1.01
+122694|20.0|Media|Chilean|0|0.0|26.0|8.9|0.5|1.81
+122889|35.0|Superior Completa|Chilean|10|7.0|44.0|0.5|0.11|0.11
+122943|24.0|Superior Completa|Chilean|0|2.0|28.0|4.0|0.7|0.42
+122999|30.0|Postgrado|Chilean|1|6.0|33.0|7.4|0.63|1.81
+123027|21.0|Básica|Chilean|1|1.0|29.0|24.0|2.2|4.76
+123040|45.0|Superior Completa|Chilean|0|14.0|81.0|4.1|1.51|1.81
+123059|38.0|Postgrado|Chilean|9|11.0|66.0|1.2|0.59|0.2
+123079|21.0|Media|Chilean|1|1.0|37.0|8.5|0.9|2.25
+123081|45.0|Superior Completa|Chilean|7|13.0|42.0|36.8|10.19|5.27
+123125|40.0|Básica|Chilean|22|8.0|141.0|11.0|5.06|10.45
+123128|22.0|Superior Completa|Chilean|0|1.0|74.0|7.5|1.86|3.69
+123148|56.0|Media|Chilean|34|21.0|475.0|2.3|3.88|7.05
+123179|37.0|Media|Chilean|9|11.0|41.0|2.9|0.11|1.08
+123217|29.0|Media|Chilean|3|2.0|42.0|9.3|1.77|2.14
+123230|37.0|Superior Completa|Chilean|10|6.0|97.0|8.3|2.01|6.04
+123242|20.0|Básica|Chilean|3|0.0|21.0|17.9|0.53|3.23
+123373|30.0|Superior Incompleta|Chilean|6|4.0|20.0|9.7|0.51|1.43
+123402|26.0|Superior Completa|Chilean|0|3.0|36.0|17.9|3.02|3.43
+123404|18.0|Media|Chilean|0|0.0|47.0|3.6|1.21|0.48
+123432|31.0|Básica|Chilean|5|7.0|27.0|4.2|0.56|0.57
+123464|44.0|Superior Incompleta|Chilean|8|8.0|49.0|16.3|2.46|5.53
+123468|19.0|Media|Chilean|0|0.0|24.0|12.5|0.94|2.06
+240017|77.0|Postgrado|Chilean|2|24.0|28.0|10.6|1.37|1.6
+240070|37.0|Superior Completa|Chilean|0|9.0|83.0|14.9|5.9|6.47
+240093|35.0|Superior Completa|Chilean|9|6.0|123.0|6.1|1.7|5.8
+240152|24.0|Superior Completa|Chilean|0|0.0|64.0|13.0|3.98|4.34
+240198|31.0|Superior Completa|Chilean|1|4.0|43.0|7.9|2.49|0.9
+240202|59.0|Superior Completa|Chilean|19|21.0|174.0|27.9|16.41|32.14
+240252|18.0|Media|Chilean|0|0.0|27.0|4.1|0.17|0.94
+240289|29.0|Media|Chilean|8|5.0|35.0|21.1|1.65|5.73
+240302|38.0|Superior Completa|Chilean|6|7.0|25.0|31.3|2.21|5.61
+240360|27.0|Superior Incompleta|Chilean|3|5.0|26.0|2.0|0.04|0.48
+240403|49.0|Media|Chilean|15|11.0|35.0|3.0|0.74|0.32
+240497|24.0|Superior Incompleta|Chilean|1|2.0|23.0|14.8|0.8|2.61
+240505|27.0|Superior Completa|Chilean|3|5.0|36.0|16.2|1.39|4.44
+240612|26.0|Media|Chilean|2|4.0|26.0|14.5|0.56|3.21
+240623|32.0|Superior Completa|Chilean|0|6.0|37.0|3.1|0.59|0.55
+240675|53.0|Postgrado|Chilean|16|13.0|51.0|4.1|0.95|1.14
+240676|19.0|Media|Chilean|0|0.0|17.0|14.1|1.04|1.36
+240680|18.0|Media|Chilean|0|0.0|19.0|6.4|0.4|0.82
+240694|19.0|Media|Chilean|1|0.0|21.0|7.9|1.1|0.55
+240697|51.0|Media|Chilean|25|16.0|96.0|21.5|7.31|13.33
+240705|30.0|Postgrado|Chilean|3|2.0|40.0|16.9|2.22|4.54
+240722|63.0|Básica|Chilean|22|21.0|61.0|13.5|1.83|6.41
+240764|30.0|Superior Completa|Chilean|1|4.0|73.0|29.8|7.05|14.71
+240789|27.0|Superior Completa|Chilean|3|3.0|43.0|4.5|0.58|1.36
+240792|42.0|Media|Chilean|15|9.0|46.0|13.1|1.06|4.97
+240895|24.0|Superior Completa|Chilean|0|3.0|44.0|13.5|2.38|3.56
+241000|20.0|Media|Chilean|0|0.0|23.0|23.6|3.54|1.89
+241089|28.0|Superior Incompleta|Chilean|4|5.0|20.0|6.2|0.57|0.67
+241132|25.0|Media|Chilean|3|2.0|23.0|5.0|0.28|0.87
+241163|24.0|Superior Completa|Chilean|0|3.0|49.0|5.0|0.87|1.58
+241191|36.0|Superior Incompleta|Chilean|9|7.0|76.0|5.7|0.29|4.04
+241279|44.0|Media|Chilean|11|12.0|50.0|22.0|2.11|8.89
+241350|23.0|Superior Incompleta|Chilean|0|1.0|45.0|15.8|1.12|5.99
+241424|32.0|Superior Incompleta|Chilean|1|4.0|26.0|3.3|0.24|0.62
+241525|32.0|Media|Chilean|9|7.0|53.0|14.9|5.81|2.08
+241564|35.0|Superior Completa|Chilean|7|6.0|76.0|7.0|0.56|4.76
+241582|30.0|Superior Incompleta|Chilean|3|6.0|34.0|14.3|2.26|2.61
+241594|30.0|Básica|Chilean|4|3.0|36.0|9.6|0.83|2.63
+241652|31.0|Media|Chilean|6|5.0|26.0|6.5|0.33|1.36
+241732|23.0|Básica|Chilean|0|2.0|16.0|17.2|0.91|1.84
+241770|46.0|Básica|Chilean|11|8.0|61.0|10.4|3.44|2.9
+241837|59.0|Básica|Chilean|33|17.0|308.0|6.7|7.39|13.25
+241859|39.0|Postgrado|Chilean|1|10.0|185.0|7.0|10.45|2.5
+241980|29.0|Postgrado|Chilean|3|3.0|55.0|27.1|8.35|6.56
+242047|26.0|Superior Completa|Chilean|2|4.0|19.0|3.8|0.11|0.62
+242106|34.0|Media|Chilean|6|7.0|27.0|6.4|0.27|1.46
+242108|30.0|Básica|Chilean|12|5.0|35.0|5.7|1.34|0.66
+242216|23.0|Superior Completa|Chilean|0|2.0|29.0|9.4|0.84|1.89
+242303|22.0|Superior Completa|Chilean|0|1.0|76.0|7.7|3.62|2.24
+242345|27.0|Superior Completa|Chilean|0|4.0|46.0|1.9|0.23|0.64
+242430|30.0|Superior Incompleta|Chilean|0|5.0|70.0|6.9|0.37|4.46
+242433|23.0|Media|Chilean|0|1.0|22.0|9.0|0.71|1.27
+242464|42.0|Postgrado|Chilean|12|13.0|34.0|6.1|0.56|1.52
+242467|29.0|Superior Completa|Chilean|2|3.0|55.0|15.6|1.48|7.1
+242512|47.0|Media|Chilean|16|8.0|66.0|1.7|0.1|1.02
+242560|34.0|Superior Completa|Chilean|8|7.0|30.0|5.7|1.08|0.63
+242597|31.0|Media|Chilean|11|7.0|51.0|12.4|4.14|2.19
+242601|35.0|Superior Completa|Chilean|10|4.0|53.0|19.0|3.64|6.43
+242691|19.0|Básica|Chilean|2|0.0|21.0|12.0|0.15|2.37
+242710|30.0|Básica|Chilean|7|7.0|40.0|11.4|1.78|2.78
+242840|25.0|Superior Completa|Chilean|0|2.0|35.0|0.6|0.07|0.14
+243028|38.0|Postgrado|Chilean|11|8.0|40.0|8.8|1.65|1.87
+243048|18.0|Media|Chilean|0|0.0|34.0|2.8|0.29|0.66
+243058|53.0|Media|Chilean|10|14.0|62.0|13.4|2.38|5.93
+243076|31.0|Básica|Chilean|10|5.0|60.0|27.3|6.27|10.11
+243083|38.0|Superior Completa|Chilean|7|7.0|274.0|2.3|4.32|1.99
+243086|19.0|Media|Chilean|0|0.0|21.0|2.5|0.03|0.49
+243118|20.0|Básica|Chilean|2|0.0|18.0|2.3|0.06|0.36
+243175|21.0|Media|Chilean|2|1.0|22.0|9.2|1.05|0.98
+243209|19.0|Media|Chilean|0|0.0|17.0|5.5|0.51|0.43
+243340|23.0|Superior Completa|Chilean|0|1.0|42.0|12.2|2.24|2.88
+243351|65.0|Media|Chilean|25|20.0|48.0|7.7|2.81|0.88
+243457|45.0|Postgrado|Chilean|18|12.0|88.0|9.6|4.04|4.41
+243535|21.0|Superior Incompleta|Chilean|0|1.0|22.0|1.5|0.1|0.23
+243547|54.0|Superior Incompleta|Chilean|8|10.0|67.0|10.5|1.25|5.79
+243554|22.0|Superior Completa|Chilean|0|2.0|24.0|8.0|0.64|1.28
+243564|20.0|Superior Incompleta|Chilean|0|0.0|23.0|14.2|1.86|1.4
+243569|41.0|Media|Chilean|12|9.0|58.0|13.1|3.78|3.81
+243578|36.0|Media|Chilean|14|3.0|71.0|6.9|1.43|3.47
+243624|33.0|Superior Incompleta|Chilean|11|8.0|79.0|10.8|3.08|5.45
+243673|23.0|Media|Chilean|2|2.0|34.0|3.3|0.22|0.9
+243859|46.0|Superior Incompleta|Chilean|8|6.0|119.0|5.6|1.11|5.55
+243929|21.0|Superior Incompleta|Chilean|0|0.0|15.0|6.1|0.07|0.84
+243957|28.0|Superior Completa|Chilean|2|4.0|62.0|34.8|3.86|17.71
+243958|39.0|Superior Incompleta|Chilean|9|8.0|69.0|6.0|0.55|3.59
+243998|54.0|Superior Completa|Chilean|4|9.0|69.0|12.0|1.18|7.1
+244010|75.0|Básica|Chilean|22|23.0|56.0|7.8|1.79|2.58
+244023|31.0|Superior Completa|Chilean|1|7.0|69.0|0.4|0.19|0.09
+244034|55.0|Media|Chilean|32|8.0|229.0|4.9|3.03|8.19
+244067|20.0|Superior Incompleta|Chilean|0|0.0|18.0|17.4|0.42|2.71
+244106|39.0|Postgrado|Chilean|3|9.0|42.0|15.2|3.08|3.31
+244123|37.0|Superior Incompleta|Chilean|2|8.0|55.0|8.0|1.64|2.76
+244159|20.0|Superior Incompleta|Chilean|0|0.0|41.0|4.3|0.47|1.29
+244190|57.0|Superior Completa|Chilean|10|10.0|149.0|10.0|3.64|11.26
+244208|50.0|Básica|Chilean|20|15.0|117.0|7.6|3.15|5.74
+244269|33.0|Básica|Chilean|2|7.0|28.0|1.6|0.14|0.31
+244280|36.0|Básica|Chilean|16|10.0|44.0|7.4|1.96|1.3
+244286|21.0|Media|Chilean|1|0.0|29.0|5.7|0.64|1.01
+244337|37.0|Superior Incompleta|Chilean|12|11.0|121.0|13.6|4.69|11.77
+244354|27.0|Postgrado|Chilean|0|4.0|24.0|6.1|0.17|1.3
+295009|28.0|Superior Completa|Chilean|5|5.0|112.0|9.9|0.93|10.16
+295028|27.0|Superior Incompleta|Chilean|4|5.0|40.0|13.2|3.73|1.55
+295035|32.0|Superior Incompleta|Chilean|4|3.0|37.0|4.1|0.48|1.04
+295057|28.0|Media|Chilean|6|5.0|33.0|20.5|1.1|5.67
+295083|24.0|Superior Completa|Chilean|0|2.0|35.0|12.1|2.47|1.77
+295134|20.0|Media|Chilean|0|0.0|44.0|3.9|1.07|0.65
+295153|39.0|Superior Completa|Chilean|16|4.0|47.0|16.5|4.16|3.6
+295187|38.0|Superior Completa|Chilean|11|8.0|145.0|18.5|1.45|25.38
+295193|65.0|Media|Chilean|38|11.0|352.0|2.5|0.39|8.41
+295270|56.0|Media|Chilean|34|19.0|215.0|13.9|14.37|15.51
+295295|18.0|Media|Chilean|0|0.0|57.0|3.1|1.24|0.53
+295339|20.0|Básica|Chilean|0|1.0|18.0|9.5|0.16|1.55
+295367|62.0|Básica|Chilean|4|13.0|27.0|13.2|1.73|1.84
+295386|39.0|Media|Chilean|13|8.0|112.0|21.2|4.63|19.11
+295449|29.0|Superior Completa|Chilean|3|2.0|102.0|9.8|4.83|5.17
+295465|30.0|Superior Completa|Chilean|4|6.0|46.0|3.9|1.26|0.54
+295472|52.0|Superior Incompleta|Chilean|21|14.0|121.0|2.4|0.39|2.51
+295518|48.0|Postgrado|Chilean|19|11.0|326.0|10.6|21.18|13.37
+295658|20.0|Básica|Chilean|2|0.0|42.0|3.1|0.89|0.41
+295683|34.0|Superior Completa|Chilean|7|3.0|33.0|7.5|1.88|0.6
+295711|68.0|Básica|Chilean|51|26.0|274.0|7.0|8.59|10.59
+295815|47.0|Básica|Chilean|16|15.0|51.0|14.2|3.4|3.85
+295913|37.0|Media|Chilean|12|8.0|29.0|9.3|0.88|1.82
+295930|36.0|Media|Chilean|9|10.0|35.0|0.8|0.09|0.19
+295938|30.0|Superior Completa|Chilean|1|6.0|107.0|8.9|1.44|8.09
+296037|24.0|Media|Chilean|0|2.0|21.0|13.7|1.38|1.5
+296049|24.0|Superior Completa|Chilean|0|2.0|49.0|13.6|3.04|3.63
+296068|31.0|Media|Chilean|0|6.0|34.0|4.2|0.71|0.71
+296183|41.0|Superior Completa|Chilean|15|13.0|89.0|9.2|2.55|5.63
+296309|19.0|Media|Chilean|0|0.0|25.0|24.7|1.23|4.95
+296317|20.0|Superior Incompleta|Chilean|0|1.0|23.0|1.0|0.02|0.21
+296325|30.0|Media|Chilean|8|5.0|65.0|9.2|2.45|3.53
+296347|42.0|Media|Chilean|5|12.0|72.0|19.3|0.25|13.65
+296403|27.0|Básica|Chilean|5|5.0|34.0|1.0|0.06|0.28
+296493|24.0|Superior Completa|Chilean|0|2.0|38.0|1.6|0.03|0.57
+296589|38.0|Media|Chilean|16|6.0|71.0|6.6|1.54|3.15
+296591|24.0|Básica|Chilean|7|2.0|29.0|13.6|0.64|3.3
+296685|48.0|Media|Chilean|7|11.0|80.0|3.7|0.79|2.17
+296709|49.0|Superior Completa|Chilean|0|11.0|77.0|2.0|0.21|1.33
+296763|18.0|Media|Chilean|0|0.0|29.0|25.9|2.39|5.12
+296812|64.0|Media|Chilean|11|28.0|27.0|2.4|0.08|0.57
+296939|19.0|Básica|Chilean|3|0.0|22.0|10.9|0.47|1.93
+296988|49.0|Superior Incompleta|Chilean|2|17.0|36.0|23.6|2.66|5.84
+297023|29.0|Superior Completa|Chilean|1|4.0|26.0|6.6|0.51|1.21
+297063|28.0|Media|Chilean|3|5.0|64.0|9.4|1.03|4.98
+297090|27.0|Media|Chilean|4|3.0|32.0|6.7|0.56|1.59
+297143|24.0|Superior Completa|Chilean|0|2.0|40.0|8.6|1.2|2.24
+297166|23.0|Básica|Chilean|2|2.0|38.0|12.2|2.23|2.41
+297181|43.0|Postgrado|Chilean|3|8.0|30.0|3.1|0.34|0.59
+297207|29.0|Postgrado|Chilean|1|5.0|51.0|12.5|2.43|3.95
+297282|61.0|Superior Incompleta|Chilean|35|9.0|327.0|4.6|7.63|7.42
+297308|22.0|Superior Completa|Chilean|0|1.0|20.0|6.5|0.6|0.7
+297345|24.0|Media|Chilean|2|3.0|34.0|2.4|0.27|0.54
+297357|30.0|Superior Incompleta|Chilean|8|3.0|65.0|8.8|1.92|3.8
+297360|37.0|Superior Incompleta|Chilean|3|4.0|57.0|10.8|0.72|5.44
+297382|27.0|Media|Chilean|4|1.0|36.0|14.7|1.46|3.83
+297384|22.0|Superior Completa|Chilean|0|1.0|29.0|3.7|0.08|0.99
+297466|28.0|Postgrado|Chilean|1|3.0|77.0|0.2|0.06|0.1
+297470|31.0|Media|Chilean|11|4.0|41.0|2.0|0.34|0.48
+297480|44.0|Básica|Chilean|14|12.0|68.0|14.9|1.78|8.35
+297533|69.0|Media|Chilean|24|22.0|84.0|20.2|5.63|11.33
+297538|26.0|Media|Chilean|5|2.0|42.0|10.6|2.13|2.32
+297698|51.0|Superior Incompleta|Chilean|9|15.0|96.0|16.8|0.58|15.55
+297702|20.0|Superior Incompleta|Chilean|0|0.0|77.0|9.6|3.85|3.54
+297820|24.0|Superior Incompleta|Chilean|2|0.0|43.0|7.3|1.24|1.9
+297849|53.0|Básica|Chilean|17|9.0|59.0|0.5|0.03|0.26
+297867|29.0|Media|Chilean|0|4.0|28.0|4.7|0.14|1.18
+297897|52.0|Superior Incompleta|Chilean|28|16.0|368.0|21.3|24.06|54.32
+297922|28.0|Superior Incompleta|Chilean|4|4.0|20.0|21.1|0.57|3.65
+297926|35.0|Media|Chilean|17|5.0|160.0|13.5|9.07|12.53
+297953|20.0|Media|Chilean|0|0.0|27.0|10.3|0.39|2.39
+297963|27.0|Postgrado|Chilean|0|3.0|36.0|4.1|0.73|0.75
+298020|34.0|Superior Completa|Chilean|2|4.0|46.0|22.5|1.21|9.14
+298062|46.0|Postgrado|Chilean|13|14.0|84.0|9.9|1.71|6.6
+298134|36.0|Superior Completa|Chilean|4|8.0|101.0|6.7|2.09|4.68
+298170|51.0|Superior Completa|Chilean|4|6.0|43.0|3.3|0.2|1.22
+298250|39.0|Básica|Chilean|20|10.0|52.0|19.7|2.33|7.92
+298314|33.0|Superior Completa|Chilean|4|6.0|24.0|27.7|3.2|3.44
+298328|65.0|Media|Chilean|38|25.0|231.0|9.3|2.02|19.46
+298383|35.0|Superior Incompleta|Chilean|10|8.0|263.0|4.9|9.27|3.62
+298392|41.0|Media|Chilean|22|7.0|226.0|17.4|7.12|32.21
+298415|23.0|Superior Incompleta|Chilean|0|1.0|33.0|1.7|0.24|0.32
+298439|23.0|Básica|Chilean|5|1.0|23.0|24.3|3.5|2.08
+298509|34.0|Postgrado|Chilean|0|5.0|120.0|6.4|5.55|2.13
+298541|18.0|Media|Chilean|0|0.0|30.0|19.8|2.3|3.64
+298547|29.0|Postgrado|Chilean|3|2.0|26.0|7.8|0.46|1.57
+298591|38.0|Superior Completa|Chilean|13|12.0|204.0|19.5|15.43|24.35
+298602|32.0|Superior Completa|Chilean|8|5.0|44.0|13.7|1.35|4.68
+298624|34.0|Media|Chilean|12|7.0|58.0|19.9|2.49|9.05
+298629|37.0|Básica|Chilean|14|4.0|67.0|13.4|2.12|6.86
+298696|37.0|Superior Incompleta|Chilean|4|6.0|53.0|15.5|1.27|6.95
+298736|37.0|Superior Incompleta|Chilean|4|6.0|30.0|4.6|0.71|0.67
+298857|45.0|Superior Completa|Chilean|16|13.0|53.0|5.7|0.93|2.09
+298915|48.0|Superior Incompleta|Chilean|4|12.0|57.0|12.1|2.46|4.43
+298944|36.0|Básica|Chilean|12|5.0|55.0|5.8|1.2|1.99
+298965|26.0|Media|Chilean|1|3.0|42.0|1.5|0.08|0.55
+298970|60.0|Básica|Chilean|31|22.0|170.0|8.0|8.77|4.83
+298976|37.0|Media|Chilean|2|9.0|31.0|9.6|1.54|1.44
+298996|27.0|Superior Completa|Chilean|1|2.0|21.0|14.4|0.52|2.51
+299036|26.0|Básica|Chilean|6|2.0|46.0|9.8|0.34|4.17
+315016|32.0|Superior Incompleta|Chilean|7|5.0|34.0|10.7|0.52|3.12
+315053|23.0|Superior Incompleta|Chilean|0|1.0|16.0|7.8|0.35|0.9
+315060|58.0|Superior Incompleta|Chilean|18|13.0|54.0|4.2|0.82|1.45
+315086|34.0|Básica|Chilean|0|7.0|26.0|1.9|0.18|0.32
+315102|30.0|Media|Chilean|0|4.0|17.0|4.9|0.41|0.42
+315108|25.0|Superior Incompleta|Chilean|2|3.0|52.0|7.7|1.07|2.93
+315159|24.0|Media|Chilean|3|2.0|24.0|10.7|1.98|0.59
+315169|34.0|Superior Completa|Chilean|1|7.0|40.0|17.6|1.68|5.36
+315203|64.0|Básica|Chilean|7|26.0|24.0|6.5|0.29|1.27
+315213|29.0|Superior Completa|Chilean|2|5.0|34.0|19.0|1.03|5.43
+315234|21.0|Media|Chilean|1|1.0|29.0|0.9|0.02|0.24
+315273|50.0|Superior Completa|Chilean|9|11.0|24.0|15.7|0.58|3.18
+315276|25.0|Superior Completa|Chilean|0|2.0|29.0|15.7|1.83|2.73
+315313|27.0|Media|Chilean|6|5.0|20.0|13.2|1.44|1.2
+315326|25.0|Superior Incompleta|Chilean|4|3.0|41.0|18.4|2.01|5.54
+315336|27.0|Superior Completa|Chilean|3|5.0|41.0|4.8|0.55|1.41
+315373|26.0|Media|Chilean|4|4.0|31.0|5.5|0.25|1.45
+315412|49.0|Media|Chilean|6|12.0|49.0|1.7|0.5|0.33
+315414|41.0|Superior Incompleta|Chilean|0|8.0|39.0|29.1|2.16|9.19
+315422|30.0|Media|Chilean|4|2.0|55.0|5.5|1.45|1.57
+315442|37.0|Básica|Chilean|16|8.0|43.0|5.6|0.64|1.77
+315481|34.0|Media|Chilean|9|3.0|62.0|8.0|0.4|4.56
+315507|50.0|Superior Completa|Chilean|23|11.0|104.0|4.8|0.93|4.06
+315508|28.0|Superior Incompleta|Chilean|4|2.0|58.0|12.6|2.48|4.83
+315514|19.0|Media|Chilean|0|0.0|20.0|3.1|0.26|0.36
+315526|25.0|Superior Completa|Chilean|0|1.0|31.0|3.9|0.37|0.84
+315544|18.0|Media|Chilean|0|0.0|15.0|12.2|0.37|1.46
+315548|24.0|Superior Completa|Chilean|0|2.0|32.0|5.6|0.25|1.54
+315568|30.0|Media|Chilean|5|6.0|26.0|14.8|0.97|2.87
+315609|36.0|Media|Chilean|1|4.0|55.0|19.6|6.36|4.42
+315619|32.0|Superior Completa|Chilean|0|5.0|38.0|3.7|0.18|1.22
+315633|41.0|Superior Completa|Chilean|2|7.0|94.0|7.0|1.16|5.42
+315665|47.0|Media|Chilean|28|11.0|189.0|3.2|4.18|1.87
+315677|57.0|Básica|Chilean|26|22.0|78.0|5.8|1.24|3.28
+315731|26.0|Básica|Chilean|4|3.0|34.0|19.0|0.67|5.79
+315743|34.0|Superior Completa|Chilean|6|5.0|65.0|14.4|4.98|4.38
+315748|33.0|Media|Chilean|0|7.0|64.0|10.6|2.69|4.1
+315754|53.0|Postgrado|Chilean|9|11.0|97.0|22.3|9.21|12.42
+315771|61.0|Media|Chilean|20|17.0|91.0|4.3|1.26|2.65
+315800|18.0|Media|Chilean|0|0.0|14.0|4.3|0.15|0.45
+315812|21.0|Superior Incompleta|Chilean|0|1.0|18.0|12.1|0.59|1.59
+315821|28.0|Básica|Chilean|7|2.0|52.0|22.1|6.78|4.71
+315831|34.0|Media|Chilean|4|8.0|49.0|3.1|0.04|1.48
+315838|20.0|Básica|Chilean|2|0.0|16.0|4.7|0.25|0.5
+315857|34.0|Básica|Chilean|11|6.0|54.0|10.6|3.12|2.6
+315892|22.0|Superior Incompleta|Chilean|0|1.0|14.0|2.5|0.26|0.09
+315898|34.0|Media|Chilean|8|7.0|30.0|24.3|0.21|7.08
+315931|18.0|Media|Chilean|0|0.0|18.0|13.1|0.92|1.44
+315948|41.0|Media|Chilean|21|9.0|64.0|0.3|0.12|0.07
+315970|46.0|Básica|Chilean|4|7.0|67.0|3.4|0.76|1.52
+316013|21.0|Media|Chilean|0|1.0|20.0|2.2|0.1|0.34
+316027|51.0|Media|Chilean|19|16.0|47.0|22.7|3.28|7.39
+316033|27.0|Postgrado|Chilean|0|3.0|25.0|22.9|1.09|4.64
+316060|35.0|Media|Chilean|15|3.0|30.0|21.3|1.28|5.11
+316077|22.0|Superior Completa|Chilean|0|2.0|26.0|6.0|0.02|1.54
+316104|65.0|Básica|Chilean|38|13.0|143.0|11.1|1.17|14.7
+316135|43.0|Superior Incompleta|Chilean|5|11.0|27.0|21.2|2.83|2.9
+316149|23.0|Superior Completa|Chilean|0|2.0|23.0|18.0|0.51|3.63
+316159|66.0|Media|Chilean|43|22.0|152.0|9.0|5.06|8.62
+316172|25.0|Media|Chilean|3|2.0|48.0|8.2|2.87|1.07
+316193|35.0|Superior Completa|Chilean|0|11.0|84.0|3.4|1.18|1.67
+316201|19.0|Media|Chilean|0|0.0|20.0|12.8|1.14|1.42
+316230|25.0|Superior Completa|Chilean|1|1.0|20.0|6.9|0.43|0.95
+316244|23.0|Superior Completa|Chilean|0|1.0|62.0|3.0|0.56|1.3
+316258|23.0|Superior Incompleta|Chilean|2|1.0|40.0|21.2|2.65|5.83
+316268|49.0|Superior Incompleta|Chilean|12|11.0|85.0|4.5|2.29|1.53
+316281|45.0|Superior Completa|Chilean|6|10.0|59.0|10.6|3.8|2.45
+316289|45.0|Media|Chilean|10|13.0|45.0|2.9|0.19|1.12
+316302|32.0|Superior Completa|Chilean|6|7.0|31.0|5.2|0.38|1.23
+316305|28.0|Superior Completa|Chilean|0|4.0|60.0|0.5|0.08|0.22
+316309|44.0|Superior Incompleta|Chilean|22|9.0|131.0|7.0|0.83|8.34
+316311|49.0|Superior Incompleta|Chilean|20|9.0|140.0|9.9|4.42|9.44
+316315|19.0|Media|Chilean|0|0.0|19.0|4.4|0.06|0.77
+316359|34.0|Superior Incompleta|Chilean|0|6.0|24.0|9.4|0.08|2.18
+316361|51.0|Superior Incompleta|Chilean|2|15.0|34.0|7.2|1.77|0.68
+316431|28.0|Media|Chilean|4|4.0|25.0|34.8|1.04|7.66
+316502|51.0|Superior Completa|Chilean|20|18.0|512.0|6.5|6.82|26.46
+316510|24.0|Superior Completa|Chilean|0|1.0|63.0|26.9|7.19|9.76
+316518|41.0|Postgrado|Chilean|9|14.0|87.0|4.4|0.78|3.05
+316521|23.0|Superior Completa|Chilean|0|1.0|35.0|15.0|0.4|4.85
+316547|33.0|Superior Completa|Chilean|3|7.0|19.0|17.2|0.37|2.9
+316569|42.0|Media|Chilean|18|5.0|176.0|5.6|3.91|5.94
+316577|20.0|Superior Incompleta|Chilean|0|0.0|16.0|3.5|0.23|0.33
+316583|27.0|Media|Chilean|3|4.0|26.0|2.6|0.09|0.58
+316622|34.0|Media|Chilean|9|3.0|29.0|11.6|1.06|2.3
+316635|20.0|Media|Chilean|0|0.0|34.0|12.9|0.9|3.49
+316655|66.0|Media|Chilean|9|23.0|54.0|15.8|1.34|7.19
+316681|19.0|Media|Chilean|0|0.0|20.0|12.7|1.22|1.32
+316735|33.0|Postgrado|Chilean|2|7.0|79.0|23.7|10.47|8.26
+316737|22.0|Superior Incompleta|Chilean|1|1.0|17.0|25.4|2.38|1.94
+316777|40.0|Media|Chilean|5|7.0|43.0|23.9|3.69|6.59
+316798|55.0|Postgrado|Chilean|25|12.0|73.0|19.1|5.8|8.14
+316809|25.0|Superior Completa|Chilean|1|1.0|15.0|8.9|0.56|0.78
+316824|23.0|Superior Incompleta|Chilean|0|1.0|30.0|6.9|0.55|1.52
+316838|37.0|Superior Completa|Chilean|13|5.0|225.0|1.1|1.42|1.06
+316862|18.0|Media|Chilean|0|0.0|21.0|6.6|0.08|1.31
+316881|23.0|Media|Chilean|4|1.0|22.0|3.8|0.08|0.76
+316883|27.0|Media|Chilean|2|2.0|55.0|11.7|0.54|5.89
+316907|42.0|Postgrado|Chilean|6|8.0|20.0|15.3|1.43|1.63
+316909|31.0|Superior Incompleta|Chilean|9|6.0|23.0|7.8|0.45|1.35
+335024|33.0|Media|Chilean|9|5.0|34.0|12.7|3.16|1.16
+335038|58.0|Superior Completa|Chilean|26|21.0|132.0|2.4|0.98|2.19
+335114|58.0|Superior Incompleta|Chilean|24|24.0|138.0|3.9|2.86|2.52
+335125|48.0|Media|Chilean|12|12.0|51.0|4.3|0.22|1.97
+335142|26.0|Media|Chilean|2|4.0|55.0|11.0|4.69|1.36
+335161|28.0|Postgrado|Chilean|2|5.0|18.0|11.9|0.32|1.82
+335203|22.0|Básica|Chilean|4|1.0|21.0|9.0|0.87|1.02
+335236|18.0|Media|Chilean|0|0.0|18.0|8.0|0.4|1.04
+335322|57.0|Media|Chilean|4|12.0|61.0|2.3|0.11|1.29
+335417|19.0|Media|Chilean|1|0.0|24.0|12.3|1.11|1.84
+335431|31.0|Superior Completa|Chilean|4|5.0|36.0|22.4|0.15|7.91
+335434|18.0|Básica|Chilean|1|0.0|18.0|8.0|0.74|0.7
+335530|23.0|Superior Incompleta|Chilean|0|1.0|18.0|4.0|0.05|0.67
+335566|19.0|Media|Chilean|0|0.0|14.0|8.2|0.38|0.77
+335573|29.0|Superior Incompleta|Chilean|0|4.0|70.0|16.5|8.21|3.34
+335610|29.0|Superior Incompleta|Chilean|8|5.0|39.0|11.6|3.26|1.27
+335615|25.0|Media|Chilean|2|3.0|24.0|3.0|0.15|0.57
+335635|18.0|Media|Chilean|0|0.0|24.0|0.9|0.13|0.09
+335667|40.0|Superior Incompleta|Chilean|4|6.0|87.0|1.2|0.86|0.18
+335669|31.0|Media|Chilean|11|8.0|36.0|4.7|0.13|1.57
+335672|52.0|Superior Completa|Chilean|2|12.0|84.0|3.1|0.2|2.4
+335680|37.0|Media|Chilean|18|3.0|39.0|26.9|5.46|5.04
+335690|40.0|Superior Incompleta|Chilean|18|13.0|84.0|6.2|0.94|4.27
+335722|18.0|Media|Chilean|0|0.0|17.0|11.9|0.17|1.86
+335743|45.0|Básica|Chilean|24|14.0|69.0|3.2|1.33|0.87
+335816|34.0|Superior Incompleta|Chilean|11|6.0|52.0|12.9|4.17|2.54
+335819|19.0|Media|Chilean|0|0.0|21.0|12.6|1.23|1.42
+335844|25.0|Superior Incompleta|Chilean|3|1.0|27.0|16.9|1.09|3.48
+335958|53.0|Media|Chilean|30|12.0|220.0|12.9|2.81|25.57
+336005|30.0|Superior Incompleta|Chilean|4|4.0|39.0|11.6|1.39|3.13
+336019|49.0|Postgrado|Chilean|23|11.0|178.0|19.4|5.59|28.94
+336093|21.0|Media|Chilean|2|1.0|23.0|3.5|0.25|0.55
+336204|40.0|Media|Chilean|0|12.0|21.0|36.6|4.35|3.34
+336244|18.0|Media|Chilean|0|0.0|23.0|11.5|0.66|1.98
+336247|18.0|Media|Chilean|0|0.0|15.0|8.0|0.22|0.98
+336295|34.0|Básica|Chilean|10|6.0|50.0|5.3|0.58|2.07
+336308|33.0|Superior Completa|Chilean|5|8.0|27.0|20.6|1.09|4.47
+336316|45.0|Superior Incompleta|Chilean|23|10.0|55.0|13.3|1.46|5.86
+336326|40.0|Superior Completa|Chilean|15|13.0|111.0|9.6|1.88|8.78
+336330|49.0|Básica|Chilean|4|11.0|36.0|9.9|1.36|2.21
+336350|27.0|Superior Incompleta|Chilean|0|4.0|31.0|3.7|0.28|0.86
+336401|52.0|Básica|Chilean|26|12.0|77.0|28.6|5.26|16.76
+336436|23.0|Media|Chilean|1|2.0|30.0|18.2|1.37|4.09
+336457|39.0|Superior Incompleta|Chilean|16|10.0|46.0|11.3|1.45|3.75
+336479|20.0|Media|Chilean|0|1.0|28.0|9.8|0.66|2.09
+336499|26.0|Superior Incompleta|Chilean|0|3.0|23.0|10.9|1.71|0.8
+336510|62.0|Superior Completa|Chilean|23|22.0|124.0|23.0|19.05|9.47
+336576|39.0|Media|Chilean|1|9.0|27.0|1.4|0.1|0.28
+336580|26.0|Básica|Chilean|5|2.0|47.0|21.7|6.14|4.06
+336624|35.0|Media|Chilean|15|8.0|66.0|3.3|1.05|1.12
+336636|46.0|Postgrado|Chilean|11|9.0|136.0|4.9|3.27|3.39
+336640|47.0|Superior Completa|Chilean|17|17.0|61.0|7.5|3.12|1.45
+336658|56.0|Básica|Chilean|3|16.0|38.0|18.7|3.72|3.39
+336706|21.0|Superior Incompleta|Chilean|0|1.0|33.0|9.1|1.05|1.95
+336731|29.0|Media|Chilean|0|5.0|33.0|5.8|0.58|1.34
+336792|28.0|Media|Chilean|3|5.0|53.0|5.7|1.57|1.45
+336815|28.0|Superior Incompleta|Chilean|3|3.0|61.0|16.1|3.16|6.66
+336852|30.0|Básica|Chilean|4|6.0|30.0|10.8|1.03|2.21
+336899|20.0|Básica|Chilean|1|0.0|22.0|10.1|0.14|2.08
+336953|24.0|Superior Completa|Chilean|0|2.0|29.0|9.6|1.04|1.75
+336969|29.0|Superior Completa|Chilean|5|4.0|73.0|25.1|2.18|16.14
+337073|19.0|Media|Chilean|0|0.0|15.0|9.5|0.4|1.03
+337079|63.0|Media|Chilean|29|19.0|208.0|16.6|21.89|12.64
+337113|39.0|Media|Chilean|17|9.0|90.0|6.8|3.45|2.67
+337128|22.0|Superior Completa|Chilean|0|1.0|30.0|3.4|0.15|0.87
+337143|30.0|Media|Chilean|2|4.0|34.0|11.6|1.39|2.55
+337173|24.0|Básica|Chilean|4|2.0|24.0|18.0|1.64|2.68
+337261|25.0|Superior Completa|Chilean|1|2.0|66.0|4.2|0.55|2.22
+337272|22.0|Media|Chilean|2|1.0|39.0|4.7|0.5|1.33
+337301|35.0|Postgrado|Chilean|0|9.0|36.0|13.3|0.99|3.8
+337304|51.0|Superior Incompleta|Chilean|14|16.0|161.0|1.4|0.57|1.69
+337309|65.0|Media|Chilean|0|25.0|57.0|6.2|1.68|1.86
+337365|38.0|Superior Completa|Chilean|14|7.0|192.0|28.9|5.27|50.22
+337367|28.0|Media|Chilean|8|4.0|24.0|24.6|4.07|1.83
+337411|30.0|Superior Completa|Chilean|2|5.0|27.0|10.6|0.74|2.13
+337462|22.0|Superior Completa|Chilean|0|2.0|46.0|8.6|1.76|2.19
+337514|19.0|Media|Chilean|0|0.0|28.0|7.5|1.51|0.59
+337528|48.0|Superior Completa|Chilean|24|18.0|66.0|4.4|0.32|2.58
+337553|18.0|Media|Chilean|0|0.0|16.0|8.3|0.17|1.15
+337620|29.0|Media|Chilean|1|5.0|39.0|10.3|2.98|1.03
+337625|37.0|Media|Chilean|0|9.0|37.0|16.2|0.93|5.06
+337641|23.0|Superior Completa|Chilean|0|1.0|73.0|0.7|0.25|0.26
+337769|27.0|Superior Incompleta|Chilean|4|5.0|41.0|6.1|1.65|0.85
+337840|38.0|Superior Completa|Chilean|10|11.0|63.0|12.2|2.76|4.93
+337873|39.0|Superior Incompleta|Chilean|10|7.0|45.0|25.0|1.77|9.48
+337887|28.0|Superior Completa|Chilean|4|3.0|48.0|24.3|3.34|8.33
+337922|54.0|Superior Incompleta|Chilean|2|19.0|35.0|6.4|0.93|1.31
+337945|39.0|Superior Completa|Chilean|12|10.0|98.0|1.6|0.16|1.41
+337963|19.0|Media|Chilean|0|0.0|26.0|17.2|2.65|1.82
+337991|71.0|Básica|Chilean|2|13.0|23.0|10.1|1.44|0.89
+338047|24.0|Media|Chilean|4|2.0|21.0|3.8|0.36|0.44
+338062|28.0|Media|Chilean|3|4.0|20.0|9.0|0.37|1.43
+338069|21.0|Básica|Chilean|4|1.0|15.0|7.3|0.05|1.04
+338112|36.0|Media|Chilean|8|2.0|42.0|3.1|0.75|0.55
+338207|36.0|Media|Chilean|1|8.0|31.0|21.0|0.33|6.18
+338240|23.0|Básica|Chilean|0|2.0|20.0|8.4|0.24|1.44
+338253|28.0|Superior Incompleta|Chilean|3|3.0|25.0|18.8|1.16|3.54
+338294|26.0|Superior Incompleta|Chilean|0|3.0|31.0|3.1|0.1|0.86
+338307|36.0|Postgrado|Chilean|3|7.0|45.0|3.3|0.47|1.02
+338320|32.0|Superior Completa|Chilean|2|2.0|55.0|10.6|1.43|4.4
+360036|24.0|Superior Completa|Chilean|0|1.0|56.0|9.3|1.55|3.66
+360188|19.0|Media|Chilean|0|0.0|55.0|7.9|0.61|3.73
+360230|28.0|Superior Completa|Chilean|2|3.0|22.0|6.2|0.76|0.61
+360245|40.0|Postgrado|Chilean|1|11.0|32.0|18.6|3.4|2.55
+360349|33.0|Postgrado|Chilean|6|4.0|121.0|15.1|3.31|14.96
+360448|34.0|Superior Incompleta|Chilean|0|4.0|23.0|6.8|0.69|0.88
+360449|19.0|Media|Chilean|0|0.0|30.0|4.0|0.52|0.68
+360504|44.0|Básica|Chilean|17|14.0|107.0|13.0|3.83|10.08
+360509|29.0|Media|Chilean|1|6.0|36.0|9.3|1.42|1.93
+360518|65.0|Básica|Chilean|10|18.0|32.0|9.9|1.37|1.8
+360585|45.0|Media|Chilean|18|11.0|59.0|8.9|2.74|2.51
+360684|33.0|Media|Chilean|4|8.0|79.0|12.6|8.55|1.4
+360740|32.0|Superior Incompleta|Chilean|3|5.0|34.0|12.4|2.18|2.03
+360763|32.0|Superior Completa|Chilean|5|6.0|67.0|8.4|3.38|2.25
+360917|23.0|Superior Incompleta|Chilean|0|1.0|34.0|9.2|1.25|1.87
+360925|25.0|Postgrado|Chilean|0|2.0|60.0|8.4|1.25|3.79
+360927|22.0|Superior Completa|Chilean|0|1.0|23.0|6.2|0.35|1.08
+360963|27.0|Básica|Chilean|6|2.0|20.0|14.3|0.38|2.48
+360968|43.0|Superior Completa|Chilean|0|10.0|94.0|19.9|6.32|12.38
+360970|53.0|Superior Completa|Chilean|26|20.0|249.0|5.8|7.58|6.86
+361058|24.0|Superior Incompleta|Chilean|2|3.0|22.0|5.6|0.08|1.15
+361072|43.0|Media|Chilean|13|13.0|62.0|24.2|8.07|6.93
+361083|25.0|Básica|Chilean|4|1.0|33.0|13.2|1.63|2.73
+361101|26.0|Superior Incompleta|Chilean|0|3.0|24.0|32.0|4.42|3.26
+361105|18.0|Media|Chilean|0|0.0|34.0|16.3|1.87|3.67
+361146|46.0|Superior Completa|Chilean|14|10.0|57.0|4.7|0.25|2.43
+361166|46.0|Superior Completa|Chilean|22|10.0|160.0|15.5|9.92|14.88
+361198|52.0|Media|Chilean|22|17.0|87.0|11.3|0.71|9.12
+361201|35.0|Superior Incompleta|Chilean|3|7.0|54.0|11.0|1.16|4.78
+361255|23.0|Superior Incompleta|Chilean|1|2.0|63.0|16.8|3.14|7.44
+361267|33.0|Básica|Chilean|7|5.0|33.0|6.9|0.68|1.6
+361299|18.0|Media|Chilean|0|0.0|28.0|8.1|0.84|1.42
+361305|31.0|Media|Chilean|11|8.0|37.0|5.7|0.82|1.28
+361346|30.0|Superior Incompleta|Chilean|4|3.0|62.0|14.8|1.53|7.64
+361396|23.0|Superior Incompleta|Chilean|2|2.0|32.0|3.0|0.28|0.68
+361437|42.0|Media|Chilean|1|5.0|50.0|9.6|2.6|2.2
+361440|21.0|Media|Chilean|0|1.0|21.0|6.3|0.83|0.49
+361454|35.0|Media|Chilean|15|8.0|55.0|10.2|3.37|2.24
+361487|26.0|Media|Chilean|5|1.0|47.0|6.2|1.83|1.09
+361612|75.0|Superior Completa|Chilean|50|18.0|460.0|19.6|26.69|63.47
+361630|22.0|Superior Incompleta|Chilean|0|2.0|32.0|3.7|0.31|0.87
+361699|19.0|Media|Chilean|0|0.0|21.0|5.6|0.14|1.04
+361704|28.0|Media|Chilean|3|2.0|22.0|11.5|0.87|1.66
+361727|22.0|Superior Incompleta|Chilean|0|1.0|45.0|13.6|1.87|4.25
+361728|30.0|Media|Chilean|4|4.0|45.0|10.0|2.13|2.37
+361759|24.0|Superior Completa|Chilean|0|1.0|53.0|16.1|5.09|3.44
+361823|20.0|Superior Incompleta|Chilean|0|0.0|33.0|9.4|0.55|2.55
+361845|38.0|Media|Chilean|18|7.0|53.0|5.2|1.2|1.55
+361850|20.0|Superior Incompleta|Chilean|0|0.0|22.0|5.1|0.36|0.76
+361875|28.0|Postgrado|Chilean|0|4.0|57.0|12.4|4.52|2.54
+361900|23.0|Superior Incompleta|Chilean|0|2.0|25.0|4.2|0.16|0.89
+361907|21.0|Superior Incompleta|Chilean|0|1.0|22.0|8.5|0.08|1.79
+362006|23.0|Superior Completa|Chilean|0|1.0|28.0|3.1|0.34|0.53
+362180|19.0|Media|Chilean|0|0.0|22.0|8.2|0.5|1.3
+362320|26.0|Media|Chilean|3|4.0|33.0|2.7|0.53|0.36
+362379|19.0|Media|Chilean|0|0.0|23.0|18.4|0.98|3.25
+362479|24.0|Media|Chilean|5|2.0|37.0|5.7|0.48|1.63
+362480|19.0|Media|Chilean|0|0.0|33.0|7.5|0.36|2.11
+362493|34.0|Superior Completa|Chilean|9|9.0|34.0|32.1|2.39|8.52
+362513|26.0|Superior Completa|Chilean|1|1.0|31.0|12.3|1.15|2.67
+362711|63.0|Básica|Chilean|17|26.0|103.0|12.3|3.47|9.2
+362745|31.0|Superior Incompleta|Chilean|7|4.0|30.0|1.9|0.17|0.4
+362747|22.0|Superior Completa|Chilean|0|1.0|28.0|8.1|0.61|1.66
+362797|34.0|Media|Chilean|6|4.0|41.0|7.5|1.09|1.98
+362909|45.0|Media|Chilean|24|10.0|86.0|9.7|1.74|6.6
+362911|22.0|Superior Incompleta|Chilean|0|1.0|31.0|10.1|0.7|2.44
+363011|21.0|Superior Incompleta|Chilean|0|1.0|44.0|6.3|1.29|1.48
+363019|65.0|Básica|Chilean|21|23.0|42.0|1.6|0.29|0.38
+363142|24.0|Superior Incompleta|Chilean|0|2.0|17.0|9.2|0.31|1.25
+363175|25.0|Superior Completa|Chilean|1|2.0|35.0|1.4|0.06|0.43
+363198|32.0|Superior Completa|Chilean|3|6.0|56.0|13.2|1.53|5.86
+363246|21.0|Superior Incompleta|Chilean|0|0.0|36.0|14.1|1.6|3.48
+363280|23.0|Superior Completa|Chilean|0|2.0|34.0|17.0|2.16|3.62
+363302|40.0|Superior Incompleta|Chilean|17|6.0|120.0|10.2|4.32|7.92
+363329|44.0|Media|Chilean|2|17.0|50.0|2.8|0.52|0.88
+363388|39.0|Superior Completa|Chilean|4|6.0|75.0|5.6|2.62|1.58
+363447|26.0|Superior Incompleta|Chilean|3|4.0|18.0|12.9|0.4|1.92
+363476|25.0|Media|Chilean|1|3.0|20.0|2.5|0.17|0.33
+363504|28.0|Media|Chilean|8|4.0|40.0|9.8|1.36|2.56
+363544|43.0|Superior Completa|Chilean|13|12.0|127.0|3.0|0.42|3.39
+363681|28.0|Media|Chilean|6|2.0|112.0|3.4|0.38|3.43
+363785|40.0|Básica|Chilean|16|7.0|33.0|23.3|2.02|5.67
+363807|31.0|Básica|Chilean|0|6.0|26.0|3.2|0.34|0.49
+363822|29.0|Superior Incompleta|Chilean|0|5.0|37.0|6.7|0.7|1.77
+363832|54.0|Básica|Chilean|13|18.0|105.0|13.6|1.63|12.65
+363882|42.0|Superior Completa|Chilean|9|9.0|49.0|7.3|1.15|2.43
+363946|39.0|Media|Chilean|14|7.0|94.0|30.2|10.5|17.88
+363975|36.0|Superior Incompleta|Chilean|10|7.0|101.0|13.1|7.24|5.99
+364013|55.0|Postgrado|Chilean|21|14.0|91.0|6.6|2.01|3.99
+364037|21.0|Media|Chilean|0|1.0|15.0|4.1|0.25|0.37
+364057|49.0|Superior Incompleta|Chilean|3|7.0|28.0|6.9|0.85|1.09
+364071|50.0|Superior Completa|Chilean|27|12.0|181.0|2.3|1.79|2.37
+364125|22.0|Superior Completa|Chilean|0|1.0|55.0|27.4|6.22|8.85
+364211|33.0|Media|Chilean|3|6.0|33.0|5.1|0.9|0.79
+364304|39.0|Superior Completa|Chilean|9|12.0|78.0|4.1|0.35|2.85
+364366|26.0|Superior Incompleta|Chilean|3|3.0|66.0|4.0|0.19|2.45
+364418|23.0|Básica|Chilean|5|1.0|48.0|18.0|1.05|7.59
+364428|19.0|Media|Chilean|0|0.0|31.0|10.6|0.99|2.29
+364476|32.0|Media|Chilean|7|3.0|33.0|24.6|4.14|3.98
+364499|19.0|Media|Chilean|0|0.0|19.0|5.4|0.37|0.65
+365041|33.0|Básica|Chilean|9|4.0|22.0|14.6|0.73|2.48
+365043|55.0|Postgrado|Chilean|11|16.0|88.0|12.9|5.11|6.24
+365079|21.0|Media|Chilean|1|1.0|30.0|3.1|0.31|0.62
+365110|47.0|Media|Chilean|10|10.0|39.0|6.7|0.22|2.39
+365120|24.0|Media|Chilean|2|0.0|32.0|11.0|0.83|2.69
+365178|25.0|Media|Chilean|5|2.0|36.0|2.7|0.53|0.44
+365216|34.0|Superior Completa|Chilean|9|7.0|58.0|28.4|4.97|11.5
+365236|67.0|Media|Chilean|7|25.0|58.0|11.4|1.59|5.03
+365265|51.0|Media|Chilean|22|11.0|65.0|18.1|4.91|6.86
+365285|45.0|Media|Chilean|26|12.0|100.0|7.5|1.7|5.81
+365288|24.0|Superior Incompleta|Chilean|0|2.0|67.0|8.9|2.38|3.58
+365291|46.0|Media|Chilean|23|14.0|99.0|3.2|1.81|1.36
+365383|53.0|Superior Completa|Chilean|3|15.0|50.0|15.7|4.25|3.6
+365437|28.0|Superior Completa|Chilean|1|4.0|175.0|19.4|7.03|26.92
+365442|21.0|Superior Incompleta|Chilean|0|0.0|20.0|4.0|0.48|0.32
+365473|28.0|Superior Completa|Chilean|2|3.0|47.0|12.1|0.43|5.25
+365477|51.0|Superior Incompleta|Chilean|10|17.0|144.0|4.9|0.92|6.14
+365484|27.0|Superior Completa|Chilean|1|4.0|38.0|8.2|0.62|2.5
+365507|18.0|Básica|Chilean|1|0.0|15.0|8.4|0.74|0.52
+365536|62.0|Básica|Chilean|32|19.0|86.0|6.3|3.97|1.45
+365579|30.0|Media|Chilean|3|1.0|35.0|16.1|0.81|4.82
+365587|19.0|Media|Chilean|0|0.0|21.0|8.1|0.69|1.01
+365613|76.0|Superior Incompleta|Chilean|12|27.0|53.0|6.2|1.28|2.01
+365668|22.0|Superior Completa|Chilean|0|1.0|19.0|7.4|0.78|0.63
+365683|26.0|Básica|Chilean|10|4.0|43.0|5.2|0.89|1.35
+365719|18.0|Media|Chilean|0|0.0|30.0|8.9|0.23|2.44
+365731|30.0|Superior Incompleta|Chilean|3|2.0|23.0|6.5|0.28|1.22
+365743|36.0|Media|Chilean|5|9.0|50.0|0.8|0.12|0.28
+365773|30.0|Media|Chilean|5|6.0|36.0|4.7|0.77|0.92
+365817|42.0|Media|Chilean|17|7.0|66.0|8.7|1.73|4.01
+365823|18.0|Media|Chilean|0|0.0|30.0|3.8|0.57|0.57
+365839|28.0|Superior Completa|Chilean|3|3.0|47.0|17.7|2.79|5.53
+365866|48.0|Media|Chilean|22|16.0|196.0|10.5|7.41|13.17
+365869|42.0|Básica|Chilean|1|10.0|32.0|7.2|0.69|1.62
+365873|33.0|Superior Completa|Chilean|7|6.0|63.0|16.7|2.81|7.71
+365895|26.0|Superior Completa|Chilean|1|3.0|35.0|7.0|1.21|1.24
+365943|24.0|Superior Completa|Chilean|0|2.0|25.0|5.7|0.64|0.79
+365968|39.0|Superior Completa|Chilean|4|6.0|84.0|3.4|0.41|2.45
+365987|19.0|Media|Chilean|1|0.0|20.0|25.9|1.94|3.24
+366021|18.0|Media|Chilean|0|0.0|27.0|6.1|0.92|0.73
+366054|23.0|Superior Completa|Chilean|0|1.0|47.0|12.3|2.1|3.68
+366058|23.0|Básica|Chilean|5|1.0|26.0|5.3|0.14|1.24
+366075|30.0|Superior Incompleta|Chilean|1|4.0|26.0|8.0|1.18|0.9
+366079|59.0|Básica|Chilean|3|14.0|44.0|16.6|5.47|1.83
+366080|37.0|Básica|Chilean|0|8.0|36.0|16.1|1.99|3.81
+366109|35.0|Básica|Chilean|16|6.0|93.0|4.7|2.86|1.51
+366221|23.0|Media|Chilean|2|0.0|17.0|21.3|0.3|3.32
+366287|52.0|Superior Completa|Chilean|2|18.0|48.0|5.4|1.4|1.19
+366299|19.0|Media|Chilean|0|0.0|26.0|14.3|0.52|3.2
+366365|70.0|Media|Chilean|33|17.0|150.0|13.3|5.17|14.78
+366382|30.0|Superior Completa|Chilean|5|6.0|109.0|7.8|1.39|7.11
+366410|40.0|Básica|Chilean|17|5.0|72.0|7.3|0.95|4.31
+366458|23.0|Superior Incompleta|Chilean|2|2.0|39.0|16.6|1.64|4.83
+366486|26.0|Básica|Chilean|5|3.0|24.0|7.9|0.33|1.56
+366563|33.0|Superior Incompleta|Chilean|12|9.0|48.0|3.7|0.93|0.84
+366568|55.0|Media|Chilean|4|19.0|59.0|22.0|6.83|6.15
+366585|46.0|Básica|Chilean|5|9.0|40.0|4.5|0.98|0.82
+366610|32.0|Media|Chilean|12|9.0|27.0|1.8|0.16|0.32
+366622|18.0|Media|Chilean|0|0.0|35.0|12.3|0.87|3.44
+366635|18.0|Media|Chilean|0|0.0|27.0|9.4|0.43|2.1
+366655|23.0|Superior Completa|Chilean|0|2.0|33.0|2.9|0.23|0.72
+366658|41.0|Media|Chilean|21|9.0|56.0|4.8|1.15|1.54
+366663|22.0|Superior Completa|Chilean|0|1.0|21.0|11.8|0.67|1.81
+366664|33.0|Media|Chilean|15|6.0|71.0|14.6|2.79|7.58
+366673|24.0|Superior Completa|Chilean|0|1.0|128.0|8.9|3.55|7.84
+366716|23.0|Superior Incompleta|Chilean|1|2.0|28.0|0.6|0.06|0.11
+366741|37.0|Superior Completa|Chilean|3|8.0|41.0|14.4|2.03|3.87
+366753|43.0|Básica|Chilean|4|9.0|26.0|12.9|1.53|1.82
+366756|31.0|Superior Incompleta|Chilean|2|5.0|45.0|13.1|1.64|4.25
+366761|20.0|Superior Incompleta|Chilean|0|1.0|28.0|8.6|0.2|2.21
+366765|24.0|Media|Chilean|5|1.0|26.0|13.1|1.09|2.32
+366778|28.0|Superior Incompleta|Chilean|4|3.0|23.0|4.9|0.55|0.58
+366795|53.0|Superior Completa|Chilean|1|16.0|46.0|11.3|2.66|2.54
+366813|26.0|Superior Completa|Chilean|1|2.0|63.0|11.9|0.94|6.55
+366819|21.0|Media|Chilean|1|1.0|24.0|4.2|0.06|0.95
+366841|22.0|Superior Incompleta|Chilean|1|1.0|29.0|15.8|2.94|1.64
+366853|44.0|Superior Completa|Chilean|4|14.0|65.0|5.8|1.53|2.24
+366897|29.0|Media|Chilean|6|5.0|27.0|6.3|0.13|1.57
+366953|28.0|Superior Incompleta|Chilean|3|3.0|31.0|12.9|2.36|1.64
+366960|41.0|Media|Chilean|4|11.0|56.0|7.3|2.56|1.53
+367033|64.0|Básica|Chilean|36|15.0|145.0|6.6|3.27|6.3
+367052|44.0|Superior Completa|Chilean|4|5.0|15.0|16.6|0.08|2.41
+367081|21.0|Media|Chilean|1|1.0|23.0|9.5|0.14|2.05
+367082|50.0|Media|Chilean|21|10.0|88.0|1.4|0.21|1.02
+367207|18.0|Media|Chilean|0|0.0|20.0|19.0|1.33|2.47
+367213|29.0|Postgrado|Chilean|0|4.0|40.0|12.5|2.03|2.98
+367238|38.0|Media|Chilean|1|9.0|28.0|0.8|0.13|0.1
+367250|30.0|Superior Completa|Chilean|1|5.0|65.0|13.4|4.55|4.16
+367263|27.0|Media|Chilean|8|4.0|29.0|6.5|0.85|1.04
+367322|28.0|Básica|Chilean|8|4.0|45.0|6.0|0.72|1.98
+367368|27.0|Media|Chilean|9|3.0|31.0|6.3|0.27|1.69
+367383|67.0|Básica|Chilean|40|24.0|88.0|6.3|1.42|4.12
+367435|36.0|Superior Completa|Chilean|12|9.0|35.0|8.1|1.05|1.78
+367468|30.0|Superior Completa|Chilean|3|4.0|38.0|11.9|0.8|3.73
+367471|29.0|Superior Incompleta|Chilean|7|6.0|57.0|4.3|1.04|1.41
+367492|18.0|Media|Chilean|0|0.0|20.0|16.7|0.46|2.88
+367497|46.0|Básica|Chilean|20|14.0|48.0|2.7|0.94|0.36
+367502|38.0|Básica|Chilean|6|10.0|24.0|16.8|0.56|3.48
+367569|23.0|Superior Incompleta|Chilean|0|2.0|32.0|7.9|1.22|1.3
+367610|41.0|Postgrado|Chilean|6|5.0|190.0|1.9|0.86|2.75
+370015|59.0|Superior Incompleta|Chilean|7|20.0|92.0|7.5|3.06|3.84
+370057|64.0|Media|Chilean|42|22.0|267.0|13.2|16.95|18.29
+370068|32.0|Superior Completa|Chilean|7|6.0|71.0|19.5|4.13|9.72
+370095|32.0|Superior Incompleta|Chilean|4|4.0|37.0|3.1|0.32|0.83
+370103|22.0|Superior Completa|Chilean|0|1.0|28.0|19.8|0.44|5.1
+370112|21.0|Media|Chilean|3|1.0|15.0|11.8|0.42|1.35
+370157|66.0|Media|Chilean|18|24.0|70.0|2.8|1.0|0.96
+370165|18.0|Media|Chilean|0|0.0|22.0|4.4|0.15|0.82
+370182|40.0|Media|Chilean|16|11.0|53.0|1.2|0.42|0.21
+370209|21.0|Superior Incompleta|Chilean|0|0.0|27.0|2.3|0.22|0.4
+370216|35.0|Superior Incompleta|Chilean|2|7.0|27.0|0.8|0.1|0.11
+370237|18.0|Media|Chilean|0|0.0|19.0|14.9|0.14|2.7
+370290|27.0|Superior Incompleta|Chilean|3|2.0|38.0|9.7|0.44|3.24
+370297|54.0|Superior Incompleta|Chilean|15|11.0|93.0|13.7|7.99|4.75
+370384|58.0|Media|Chilean|2|20.0|31.0|3.3|0.5|0.52
+370404|43.0|Superior Incompleta|Chilean|3|12.0|38.0|6.0|0.62|1.66
+370440|42.0|Superior Completa|Chilean|6|14.0|49.0|14.7|2.85|4.36
+370446|26.0|Superior Completa|Chilean|0|3.0|26.0|3.3|0.41|0.45
+370500|31.0|Superior Completa|Chilean|8|6.0|47.0|24.6|5.98|5.58
+370619|18.0|Media|Chilean|0|0.0|22.0|10.2|0.52|1.72
+370648|33.0|Superior Completa|Chilean|4|4.0|136.0|10.1|5.56|8.17
+370650|46.0|Superior Incompleta|Chilean|0|7.0|34.0|3.9|0.08|1.24
+370667|35.0|Superior Completa|Chilean|6|9.0|81.0|6.8|2.84|2.67
+370672|68.0|Superior Incompleta|Chilean|38|25.0|154.0|6.2|3.02|6.53
+370695|24.0|Superior Completa|Chilean|0|2.0|45.0|6.7|0.82|2.19
+370721|46.0|Superior Completa|Chilean|1|10.0|58.0|7.6|0.33|4.08
+370722|38.0|Superior Incompleta|Chilean|12|9.0|86.0|2.4|0.87|1.19
+370730|43.0|Media|Chilean|13|10.0|62.0|21.9|7.9|5.68
+370733|20.0|Superior Incompleta|Chilean|0|0.0|27.0|1.0|0.11|0.16
+370775|23.0|Superior Completa|Chilean|0|1.0|24.0|26.9|0.4|6.06
+370788|45.0|Básica|Chilean|8|12.0|41.0|14.8|0.26|5.81
+370813|37.0|Básica|Chilean|7|2.0|29.0|4.3|0.17|1.08
+370841|51.0|Superior Incompleta|Chilean|29|14.0|285.0|16.6|14.81|32.5
+370856|18.0|Media|Chilean|0|0.0|31.0|9.1|0.49|2.33
+370878|33.0|Superior Completa|Chilean|2|6.0|66.0|3.1|0.83|1.21
+370896|37.0|Superior Completa|Chilean|8|7.0|62.0|23.9|5.81|9.01
+370900|59.0|Superior Incompleta|Chilean|22|22.0|84.0|16.0|1.85|11.59
+370913|57.0|Media|Chilean|36|18.0|172.0|9.2|3.45|12.37
+370923|19.0|Media|Chilean|0|0.0|39.0|4.4|0.73|0.99
+370970|44.0|Media|Chilean|15|17.0|59.0|18.3|5.85|4.95
+371071|32.0|Media|Chilean|0|4.0|35.0|18.1|1.14|5.19
+371139|38.0|Superior Incompleta|Chilean|6|11.0|37.0|19.1|2.37|4.69
+371228|19.0|Media|Chilean|0|0.0|17.0|12.4|0.34|1.77
+371240|21.0|Superior Incompleta|Chilean|0|1.0|35.0|22.7|2.13|5.82
+371311|28.0|Básica|Chilean|7|3.0|43.0|23.4|0.27|9.79
+371316|19.0|Media|Chilean|0|0.0|30.0|24.3|0.53|6.76
+371328|48.0|Básica|Chilean|0|12.0|28.0|2.6|0.12|0.61
+371340|46.0|Básica|Chilean|15|13.0|95.0|15.4|6.69|7.94
+371388|30.0|Media|Chilean|6|5.0|32.0|1.5|0.19|0.29
+371395|52.0|Básica|Chilean|30|13.0|125.0|15.7|8.32|11.3
+371420|33.0|Media|Chilean|3|3.0|36.0|18.0|2.18|4.3
+371423|36.0|Superior Completa|Chilean|10|7.0|51.0|13.2|3.45|3.28
+371426|71.0|Media|Chilean|13|10.0|59.0|24.4|2.66|11.73
+371473|40.0|Superior Completa|Chilean|12|10.0|87.0|5.8|0.54|4.5
+371580|32.0|Superior Completa|Chilean|5|5.0|87.0|10.4|0.46|8.59
+371656|32.0|Media|Chilean|12|7.0|75.0|7.1|1.55|3.78
+371660|25.0|Superior Incompleta|Chilean|1|3.0|16.0|4.5|0.39|0.33
+371716|36.0|Superior Completa|Chilean|8|6.0|100.0|19.9|11.56|8.34
+371741|22.0|Media|Chilean|0|1.0|18.0|3.5|0.33|0.3
+371761|35.0|Media|Chilean|9|9.0|43.0|14.9|2.52|3.89
+371783|26.0|Superior Incompleta|Chilean|4|1.0|23.0|8.2|0.35|1.54
+371803|51.0|Básica|Chilean|23|10.0|47.0|2.2|0.34|0.69
+371809|20.0|Superior Incompleta|Chilean|0|1.0|31.0|18.3|1.95|3.72
+371811|39.0|Media|Chilean|7|10.0|56.0|10.9|4.07|2.03
+371824|33.0|Media|Chilean|6|8.0|41.0|2.1|0.02|0.84
+371907|25.0|Media|Chilean|6|0.0|18.0|16.3|1.86|1.07
+371910|43.0|Superior Incompleta|Chilean|8|9.0|49.0|6.0|0.87|2.07
+371939|33.0|Postgrado|Chilean|0|5.0|46.0|15.7|0.75|6.47
+371987|36.0|Superior Completa|Chilean|8|8.0|58.0|17.2|1.28|8.7
+371988|33.0|Superior Completa|Chilean|5|7.0|35.0|5.2|0.58|1.24
+372012|25.0|Media|Chilean|5|2.0|18.0|12.6|0.11|2.15
+372041|40.0|Superior Incompleta|Chilean|5|9.0|34.0|23.3|1.53|6.39
+372048|41.0|Media|Chilean|14|9.0|76.0|18.0|9.18|4.5
+372086|28.0|Básica|Chilean|4|4.0|20.0|13.6|0.53|2.19
+372090|19.0|Media|Chilean|0|0.0|20.0|1.2|0.03|0.21
+372091|25.0|Media|Chilean|7|3.0|27.0|7.6|0.23|1.82
+372120|46.0|Básica|Chilean|6|5.0|37.0|31.6|2.34|9.35
+372126|43.0|Superior Incompleta|Chilean|13|7.0|71.0|4.2|1.41|1.57
+372138|57.0|Básica|Chilean|25|22.0|61.0|1.6|0.18|0.8
+372174|70.0|Básica|Chilean|6|22.0|22.0|19.9|0.5|3.88
+372193|32.0|Media|Chilean|7|2.0|40.0|6.2|0.51|1.97
+372218|18.0|Media|Chilean|0|0.0|22.0|3.4|0.37|0.38
+372221|23.0|Superior Incompleta|Chilean|1|1.0|42.0|1.3|0.17|0.38
+372227|36.0|Media|Chilean|4|9.0|57.0|4.2|0.69|1.7
+372245|20.0|Superior Incompleta|Chilean|0|0.0|27.0|5.1|0.53|0.85
+372258|29.0|Postgrado|Chilean|2|3.0|25.0|12.0|1.13|1.87
+372266|22.0|Media|Chilean|0|1.0|30.0|11.5|1.69|1.76
+372285|41.0|Superior Completa|Chilean|6|7.0|87.0|3.7|1.02|2.2
+372317|26.0|Media|Chilean|4|3.0|22.0|6.7|0.03|1.44
+372406|40.0|Básica|Chilean|3|11.0|21.0|5.3|0.09|1.02
+372407|46.0|Superior Incompleta|Chilean|12|12.0|111.0|5.8|1.09|5.34
+372420|42.0|Superior Incompleta|Chilean|19|2.0|24.0|15.1|2.0|1.62
+372447|20.0|Superior Incompleta|Chilean|0|0.0|21.0|15.1|1.26|1.91
+372450|22.0|Superior Completa|Chilean|0|1.0|51.0|8.7|1.07|3.37
+372485|20.0|Superior Incompleta|Chilean|0|0.0|13.0|1.1|0.05|0.09
+372496|24.0|Superior Completa|Chilean|1|2.0|36.0|13.0|1.0|3.68
+372514|72.0|Media|Chilean|48|30.0|233.0|28.8|18.25|48.85
+372545|51.0|Media|Chilean|9|19.0|82.0|14.6|1.5|10.48
+372551|57.0|Postgrado|Chilean|31|23.0|1079.0|1.4|1.96|13.14
+372571|33.0|Superior Incompleta|Chilean|3|9.0|26.0|12.8|0.92|2.41
